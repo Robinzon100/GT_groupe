@@ -1,0 +1,99 @@
+/* nav{
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1700 - 700)))!important;
+}
+
+/* body {
+    font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
+} */
+
+
+
+/* p{ 
+    font-size: calc(13px + (16 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+h5{ 
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}*/
+
+
+nav{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(15px + (18 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+/* body {
+    font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
+} */
+
+
+
+ p{ 
+    font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+h5{ 
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+} 
+
+
+.main_title div{
+    font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto'!important;
+    font-style: medium;
+    font-weight: 600;
+    font-size: 8em;
+    text-shadow: 0px 0px 10px  black , 0 0 5px #0000FF;
+}
+
+.server_title h1{
+    font-size: calc(31px + (90 - 31) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto'!important;
+    font-style: medium;
+    font-weight: normal;
+    color: white;
+    text-shadow: 0px 1px 15px  #000000, 0 0 15px #0000FF;;    
+}
+
+.server_text h3{
+    font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+.server_text {
+    font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+.blog-card{
+    font-family: sans-serif !important;
+    text-shadow: 0px 0px 2px  black , 0 0 5px black;
+}
+
+
+
+
+
+
+
+
+
+div small{
+    font-family: 'Roboto'!important;
+    font-style: normal;
+    font-weight: slim;
+    font-size: calc(14px + (70 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+label{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(14px + (24 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+.carousel h1, .carousel h2, .carousel hr{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(20px + (24 - 20) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+
