@@ -101,7 +101,6 @@ label{
 .net-title{
     font-family: 'Roboto', sans-serif !important; 
     font-size: calc(20px + (70 - 20) * ((100vw - 300px) / (1900 - 700)))!important;
-
 }
 
 main table .table-titles{

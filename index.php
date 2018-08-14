@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Title</title>
+    <title>GT Groupe</title>
+    <link rel="shortcut icon" type="image/svg" href="../img/icons/logo2.svg">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
@@ -84,13 +85,13 @@
                             <a href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="services_server_page.php">Server Infrastructure</a>
-                            <a class="dropdown-item" href="#">Network Accesories & Installation</a>
-                            <a class="dropdown-item" href="#">PC and Workstation</a>
-                            <a class="dropdown-item" href="#">CCTB & Security Systems</a>
-                            <a class="dropdown-item" href="#">Laptops</a>
-                            <a class="dropdown-item" href="#">Printing Equipment</a>
-                            <a class="dropdown-item" href="#">Voice and Video Conference</a>
+                        <a class="dropdown-item" href="services_server_page.php">Server Infrastructure</a>
+                            <a class="dropdown-item" href="/Network_Accesories_&_Installation_services.php">Network Accesories & Installation</a>
+                            <a class="dropdown-item" href="/PC_and_Workstation_services.php">PC and Workstation</a>
+                            <a class="dropdown-item" href="/CCTB _&_Security_Systems_services.php">CCTB & Security Systems</a>
+                            <a class="dropdown-item" href="/Laptops_services.php">Laptops</a>
+                            <a class="dropdown-item" href="/Printing_Equipment_services.php">Printing Equipment</a>
+                            <a class="dropdown-item" href="/Voice_and_Video_Conference_services.php">Voice and Video Conference</a>
                         </div>
                     </div>
                 </li>

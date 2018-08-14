@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>GT Groupe</title>
+   
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    
+    <title>GT Groupe</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
     <div class="server_title text-center">  
 
             <div class="img_cicle text-center">      
-                <img src="/img/icons/SVG/server.svg" alt="">
+                <img src="/img/icons/SVG/laptop.svg" alt="">
             </div>
 
 

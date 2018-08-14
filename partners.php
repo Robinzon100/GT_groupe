@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>server_services</title>
+    <title>GT Groupe</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Title</title>
+     
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -56,21 +56,90 @@
 
     <div class=" partners__grid text-center">
         <ul class=" partners text-center">
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-            <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
-        </ul>
-    </div>
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+            <li> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <h2>Companie name</h2>
+
+            </li>
+
+        </ul 
+<a href="">
+    <h2>Companie name</h2>
+
+
+   </div</a>>
 
 
 </div>

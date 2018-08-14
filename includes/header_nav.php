@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../fonts/fonts.css">
 <link rel="stylesheet" href="../grids/main_grid.css">
+<link rel="shortcut icon" type="image/svg" href="../img/icons/logo2.svg">
 
-
+<title>GT Groupe</title>
 
 <nav class="navbar fixed-top navbar-expand-md navbar-light " height = "3.5em !important;">
         <a href = "../index.php" class="navbar-brand" style="margin-left: 2em; margin-right: -2em; " href="#">
@@ -55,12 +56,12 @@
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;"  aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="services_server_page.php">Server Infrastructure</a>
-                            <a class="dropdown-item" href="#">Network Accesories & Installation</a>
-                            <a class="dropdown-item" href="#">PC and Workstation</a>
-                            <a class="dropdown-item" href="#">CCTB & Security Systems</a>
-                            <a class="dropdown-item" href="#">Laptops</a>
-                            <a class="dropdown-item" href="#">Printing Equipment</a>
-                            <a class="dropdown-item" href="#">Voice and Video Conference</a>
+                            <a class="dropdown-item" href="/Network_Accesories_&_Installation_services.php">Network Accesories & Installation</a>
+                            <a class="dropdown-item" href="/PC_and_Workstation_services.php">PC and Workstation</a>
+                            <a class="dropdown-item" href="/CCTB _&_Security_Systems_services.php">CCTB & Security Systems</a>
+                            <a class="dropdown-item" href="/Laptops_services.php">Laptops</a>
+                            <a class="dropdown-item" href="/Printing_Equipment_services.php">Printing Equipment</a>
+                            <a class="dropdown-item" href="/Voice_and_Video_Conference_services.php">Voice and Video Conference</a>
                         </div>
                     </div>
                 </li>

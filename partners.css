@@ -1,8 +1,9 @@
 .main-container{
     width: 100%;
     height: auto;
- 
 }
+
+ 
 
 .hero__img_container{
     background-image: url("img/partners.jpg");
@@ -72,16 +73,26 @@
     padding: 4em !important;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.336);
     margin: 0 auto;
+    transition: all 2s ease;
 }
 
 .partners img{
-
     width: 100%;
     height: auto;
     margin: auto;
 }
 
+.partners h2{
+    opacity: 0;
+    margin: 0.5rem auto 0 auto; 
+    transition: all .5s ease;
+}
+
+.partners li:hover h2{
+    opacity: 1;
+    transform: translateY(-3px);
+}
 
 .footer{
-    margin-top: 100vw;
+    margin-top: 20vw;
 }
