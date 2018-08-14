@@ -57,81 +57,68 @@
     <div class=" partners__grid text-center">
         <ul class=" partners text-center">
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
                 <h2>Companie name</h2>
-
             </li>
 
         </ul 
@@ -139,8 +126,7 @@
     <h2>Companie name</h2>
 
 
-   </div</a>>
-
+   </div>
 
 </div>
 

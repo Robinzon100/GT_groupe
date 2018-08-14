@@ -110,7 +110,6 @@
                             <a href="">CONTACTS</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">location</a>
                             <a class="dropdown-item" href="maill.php">emaill</a>
                         </div>
                     </div>
