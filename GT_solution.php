@@ -65,42 +65,42 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td>HP</td>
-            <td>HP</td>
-            <td>Vmware</td>
-            <td>VSAN</td>
-            <td>Veritas</td>
-            <td>Splunk</td>
-            <td>PRTG</td>
+            <td> <a href=""> HPE</a> </td>
+            <td> <a href=""> HPE</a> </td>
+            <td> <a href=""> Vmware </a> </td>
+            <td> <a href=""> VSAN </a> </td>
+            <td> <a href=""> Veritas </a> </td>
+            <td> <a href=""> Splunk </a> </td>
+            <td> <a href=""> PRTG </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>Cisco</td>
-            <td>Dell/EMC</td>
-            <td>Microsoft</td>
-            <td>Microsoft</td>
-            <td>Veam</td>
-            <td>HP</td>
-            <td>Zabbix</td>
+            <td> <a href=""> Cisco </a> </td>
+            <td> <a href=""> Dell/EMC </a> </td>
+            <td> <a href=""> Microsoft </a> </td>
+            <td> <a href=""> Microsoft </a> </td>
+            <td> <a href=""> Veam </a> </td>
+            <td> <a href=""> HPE </a> </td>
+            <td> <a href=""> Zabbix </a> </td>
         </tr>
 
         <tr>
         <th scope="row"></th>
-            <td>Lenovo</td>
-            <td>Lenovo</td>
-            <td></td>
-            <td>DELL</td>
-            <td>HP</td>
-            <td>IBM</td>
-            <td></td>
+            <td> <a href=""> Lenovo </a> </td>
+            <td> <a href=""> Lenovo </a> </td>
+            <td> <a href="">  </a> </td>
+            <td> <a href=""> DELL </a> </td>
+            <td> <a href=""> HPE </a> </td>
+            <td> <a href=""> IBM </a> </td>
+            <td> <a href="">  </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>Dell/EMC</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>Dell/EMC</td>
+            <td> <a href=""> Dell/EMC </a> </td>
+            <td> <a href="">  </a> </td>
+            <td> <a href="">  </a> </td>
+            <td> <a href="">  </a> </td>
+            <td> <a href=""> Dell/EMC </a> </td>
         </tr>
     </tbody>
     </table>
@@ -123,20 +123,20 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
             <th scope="row"> </th>
-            <td>Microsoft Azure</td>
-            <td> </td>
-            <td>  </td>
+            <td> <a href=""> Microsoft Azure </a> </td>
+            <td> <a href="">   </a> </td>
+            <td> <a href="">    </a> </td>
         </tr>
         <tr>
             <th scope="row"> </th>
-            <td>Google Cloud</td>
-            <td> </td>
-            <td>  </td>
+            <td> <a href=""> Google Cloud </a> </td>
+            <td> <a href="">   </a> </td>
+            <td> <a href="">    </a> </td>
         </tr>
         <tr>
             <th scope="row"> </th>
-            <td>AWS</td>
-            <td>  </td>
+            <td> <a href=""> AWS </a> </td>
+            <td> <a href="">    </a> </td>
         </tr>
     </tbody>
     </table>
@@ -172,24 +172,24 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td>Aruba</td>
-            <td>Checkpoint</td>
-            <td>F5</td>
+            <td> <a href=""> Aruba </a> </td>
+            <td> <a href=""> Checkpoint </a> </td>
+            <td> <a href=""> F5 </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>cisco</td>
-            <td>Cisco</td>
-            <td>FortiWeb</td>
+            <td> <a href=""> cisco </a> </td>
+            <td> <a href=""> Cisco </a> </td>
+            <td> <a href=""> FortiWeb </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>Ruckus</td>
-            <td>Fortinet</td>
+            <td> <a href=""> Ruckus </a> </td>
+            <td> <a href=""> Fortinet </a> </td>
         </tr>
         <th scope="row"></th>
-            <td></td>
-            <td>Palo Alto</td>
+            <td> <a href="">  </a> </td>
+            <td> <a href=""> Palo Alto </a> </td>
         </tr>
     </tbody>
     </table>
@@ -210,19 +210,19 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td>Cisco ACI</td>
+            <td> <a href=""> Cisco ACI </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>Vmware NSX</td>
+            <td> <a href=""> Vmware NSX </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>HP OPenStack</td>
+            <td> <a href=""> HPE OPenStack </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td>Riverbed</td>
+            <td> <a href=""> Riverbed </a> </td>
         </tr>
     </tbody>
     </table>

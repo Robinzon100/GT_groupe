@@ -13,7 +13,7 @@
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
     <link rel="stylesheet" href="fonts/fonts.css">
     <link rel="stylesheet" href="style.css">    
-    <link rel="stylesheet" href=" partners.css">
+    <link rel="stylesheet" href="partners.css">
     <link rel="stylesheet" href="/grids/main_grid.css">
       
     <script src="js/jquary.js"></script>
@@ -57,73 +57,71 @@
     <div class=" partners__grid text-center">
         <ul class=" partners text-center">
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""> 
+                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
                 <h2>Companie name</h2>
             </li>
 
-        </ul 
-<a href="">
-    <h2>Companie name</h2>
+        </ul>
 
 
    </div>

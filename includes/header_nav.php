@@ -42,7 +42,6 @@
                             <a href="">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href=" partners.php"> Partners</a>
                             <a class="dropdown-item" href="/GT_solution.php">GT Solution</a>
                             <a class="dropdown-item" href="/staff.php">Staff</a>
                         </div>
@@ -68,8 +67,8 @@
 
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="">PARTNERS</a>
+                        <div class="px-2 py-4"  id="dropdownMenuButton">
+                            <a href="../partners.php">PARTNERS</a>
                         </div>
                     </div>
                 </li>
