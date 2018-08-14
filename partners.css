@@ -9,7 +9,7 @@
     position: relative;
     background-size: cover;
     background-attachment: fixed;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     transition:all 0.3s ease;
 }
@@ -40,9 +40,8 @@
     top:0;
     left:0;
     transform: scale(0.2) translate(0,-110%);
-    opacity:1;
+    opacity:0;
     transition: all .4s ease-in; 
-    box-shadow: 0 0 80px black;
 }
 
 .hero__img_container:hover .overlay{
@@ -72,6 +71,7 @@
     height: auto;
     padding: 4em !important;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.336);
+    margin: 0 auto;
 }
 
 .partners img{

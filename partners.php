@@ -54,8 +54,8 @@
     </div>
 
 
-    <div class=" partners__grid">
-        <ul class=" partners">
+    <div class=" partners__grid text-center">
+        <ul class=" partners text-center">
             <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
             <li> <img src="img/partners img/Capture.JPG" alt=""> </li>
             <li> <img src="img/partners img/Capture.JPG" alt=""> </li>

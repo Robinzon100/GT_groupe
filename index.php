@@ -72,9 +72,9 @@
                             <a href="">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href=" partners.php"> partners</a>
-                            <a class="dropdown-item" href="#">vendors</a>
-                            <a class="dropdown-item" href="#">staff</a>
+                            <a class="dropdown-item" href=" partners.php"> Vartners</a>
+                            <a class="dropdown-item" href="#">Vendors</a>
+                            <a class="dropdown-item" href="/GT_solution.php">GT Solution</a>
                         </div>
                     </div>
                 </li>
