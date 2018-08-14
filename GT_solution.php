@@ -43,13 +43,13 @@ include("includes/header_nav.php");
 
 
 <main class = "main">
-    <h1 class="display-3 font-weight-bold text-center m-5">Data Infrastructure</h1>
+    <h1 class="display-3 font-weight-bold text-center m-5 serv-title">Data Infrastructure</h1>
 
 
     <table class="table table-hover">
     <thead>
         <tr>
-            <th scope="col" colspan="10" class = "text-center display-4 " >Feature Solutions</th>
+            <th scope="col" colspan="8" class = "text-center display-4 table-titles " >Feature Solutions</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>
@@ -111,7 +111,7 @@ include("includes/header_nav.php");
     <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"> </th>
@@ -160,7 +160,7 @@ include("includes/header_nav.php");
     <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 network-table" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>
@@ -200,7 +200,7 @@ include("includes/header_nav.php");
     <table class="table table-hover" style ="margin-bottom:20rem;">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 network-table " >Feature Solutions</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table " >Feature Solutions</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>

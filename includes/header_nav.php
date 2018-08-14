@@ -80,7 +80,6 @@
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="#">location</a>
-                            <a class="dropdown-item" href="#">staff</a>
                             <a class="dropdown-item" href="maill.php">email</a>
                         </div>
                     </div>
