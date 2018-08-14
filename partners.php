@@ -57,69 +57,61 @@
     <div class=" partners__grid text-center">
         <ul class=" partners text-center">
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/HPE.png" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
 
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Cisco.png" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Dell_EMC.png" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img//F5.png" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h3>
+                </div>
             </li>
-
             <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
+                <div class="card">
+                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
+                    <h2 style = "color:yellow" > Golden</h4>
+                </div>
             </li>
-
-            <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
-            </li>
-
-            <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
-            </li>
-
-            <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
-            </li>
-
-            <li> 
-                <a href=""><img src="img/partners img/Capture.JPG" alt=""></a> 
-                <h2>Companie name</h2>
-            </li>
+            
 
         </ul>
 

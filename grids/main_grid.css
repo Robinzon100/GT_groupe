@@ -313,7 +313,13 @@
 
 
 /*=============================================
-                FOOTER BOXES
+                PARNERS GRID
 /*=============================================*/
 
- 
+.partners{
+    display: grid;
+    margin: 0 auto;
+    grid-gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-auto-rows: auto;
+}

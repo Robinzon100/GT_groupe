@@ -65,42 +65,42 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> HPE</a> </td>
-            <td> <a href=""> HPE</a> </td>
-            <td> <a href=""> Vmware </a> </td>
-            <td> <a href=""> VSAN </a> </td>
-            <td> <a href=""> Veritas </a> </td>
-            <td> <a href=""> Splunk </a> </td>
-            <td> <a href=""> PRTG </a> </td>
+            <td> <a href="https://www.hpe.com/emea_europe/en/servers.html"> HPE</a> </td>
+            <td> <a href="https://www.hpe.com/emea_europe/en/storage.html"> HPE</a> </td>
+            <td> <a href="https://www.vmware.com/solutions/virtualization.html"> Vmware </a> </td>
+            <td> <a href="https://www.vmware.com/products/software-defined-storage.html"> VSAN </a> </td>
+            <td> <a href="https://www.veritas.com/solution/data-protection"> Veritas </a> </td>
+            <td> <a href="https://www.splunk.com/en_us/software/enterprise-security.html"> Splunk </a> </td>
+            <td> <a href="https://www.paessler.com/prtg"> PRTG </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Cisco </a> </td>
-            <td> <a href=""> Dell/EMC </a> </td>
-            <td> <a href=""> Microsoft </a> </td>
-            <td> <a href=""> Microsoft </a> </td>
-            <td> <a href=""> Veam </a> </td>
-            <td> <a href=""> HPE </a> </td>
-            <td> <a href=""> Zabbix </a> </td>
+            <td> <a href="https://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c-series-rack-servers/index.html"> Cisco </a> </td>
+            <td> <a href="https://www.dellemc.com/sr-ba/storage/data-storage.htm"> Dell/EMC </a> </td>
+            <td> <a href="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"> Microsoft </a> </td>
+            <td> <a href="https://sds.microsoft.com/"> Microsoft </a> </td>
+            <td> <a href="https://www.vema-gmbh.de/data-protection.html"> Veam </a> </td>
+            <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
+            <td> <a href="https://www.zabbix.com/"> Zabbix </a> </td>
         </tr>
 
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Lenovo </a> </td>
-            <td> <a href=""> Lenovo </a> </td>
-            <td> <a href="">  </a> </td>
-            <td> <a href=""> DELL </a> </td>
-            <td> <a href=""> HPE </a> </td>
-            <td> <a href=""> IBM </a> </td>
-            <td> <a href="">  </a> </td>
+            <td> <a href="https://www.lenovo.com/us/en/data-center/servers/c/servers"> Lenovo </a> </td>
+            <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> Lenovo </a> </td>
+            <td> </td>
+            <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> DELL </a> </td>
+            <td> <a href="https://www.hpe.com/emea_europe/en/storage/data-protection-solutions.html"> HPE </a> </td>
+            <td> <a href="https://www.ibm.com/us-en/marketplace/ibm-qradar-log-manager"> IBM </a> </td>
+            <td>   </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Dell/EMC </a> </td>
+            <td> <a href="https://www.dellemc.com/sr-ba/servers/index.htm"> Dell/EMC </a> </td>
             <td> <a href="">  </a> </td>
             <td> <a href="">  </a> </td>
             <td> <a href="">  </a> </td>
-            <td> <a href=""> Dell/EMC </a> </td>
+            <td> <a href="https://www.dellemc.com/sr-ba/servers/index.htm"> Dell/EMC </a> </td>
         </tr>
     </tbody>
     </table>
@@ -123,19 +123,19 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
             <th scope="row"> </th>
-            <td> <a href=""> Microsoft Azure </a> </td>
+            <td> <a href="https://azure.microsoft.com/en-us/"> Microsoft Azure </a> </td>
             <td> <a href="">   </a> </td>
             <td> <a href="">    </a> </td>
         </tr>
         <tr>
             <th scope="row"> </th>
-            <td> <a href=""> Google Cloud </a> </td>
+            <td> <a href="https://cloud.google.com/"> Google Cloud </a> </td>
             <td> <a href="">   </a> </td>
             <td> <a href="">    </a> </td>
         </tr>
         <tr>
             <th scope="row"> </th>
-            <td> <a href=""> AWS </a> </td>
+            <td> <a href="https://aws.amazon.com/"> AWS </a> </td>
             <td> <a href="">    </a> </td>
         </tr>
     </tbody>
@@ -172,24 +172,24 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Aruba </a> </td>
-            <td> <a href=""> Checkpoint </a> </td>
-            <td> <a href=""> F5 </a> </td>
+            <td> <a href="https://www.arubanetworks.com/"> Aruba </a> </td>
+            <td> <a href="https://www.checkpoint.com/products-solutions/next-generation-firewalls/"> Checkpoint </a> </td>
+            <td> <a href="https://f5.com/glossary/web-application-firewall"> F5 </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> cisco </a> </td>
-            <td> <a href=""> Cisco </a> </td>
-            <td> <a href=""> FortiWeb </a> </td>
+            <td> <a href="https://www.cisco.com/c/en/us/products/wireless/product-listing.html"> cisco </a> </td>
+            <td> <a href="https://www.cisco.com/c/en/us/products/security/firewalls/index.html"> Cisco </a> </td>
+            <td> <a href="https://www.fortinet.com/products/web-application-firewall/fortiweb.html"> FortiWeb </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Ruckus </a> </td>
-            <td> <a href=""> Fortinet </a> </td>
+            <td> <a href="https://www.ruckuswireless.com/"> Ruckus </a> </td>
+            <td> <a href="https://www.fortinet.com/"> Fortinet </a> </td>
         </tr>
         <th scope="row"></th>
             <td> <a href="">  </a> </td>
-            <td> <a href=""> Palo Alto </a> </td>
+            <td> <a href="http://www.firewall.cx/networking-topics/firewalls/palo-alto-firewalls.html"> Palo Alto </a> </td>
         </tr>
     </tbody>
     </table>
@@ -210,19 +210,19 @@ include("includes/header_nav.php");
     <tbody>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Cisco ACI </a> </td>
+            <td> <a href="https://www.cisco.com/c/en/us/solutions/data-center-virtualization/application-centric-infrastructure/index.html"> Cisco ACI </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Vmware NSX </a> </td>
+            <td> <a href="https://www.sdxcentral.com/vmware/definitions/what-is-vmware-nsx/"> Vmware NSX </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> HPE OPenStack </a> </td>
+            <td> <a href="https://www.sdxcentral.com/products/hp-helion-openstack/"> HPE OpenStack </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
-            <td> <a href=""> Riverbed </a> </td>
+            <td> <a href="https://www.riverbed.com/blogs/software-defined-success-is-driving-adoption-for-sdn-and-sd-wan.htmls"> Riverbed </a> </td>
         </tr>
     </tbody>
     </table>
