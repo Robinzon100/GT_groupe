@@ -22,6 +22,12 @@ nav{
     font-size: calc(15px + (18 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
 }
 
+nav .dropdown-item{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(10px + (16 - 10) * ((100vw - 300px) / (1900 - 700)))!important;
+    padding-right: .5rem !important;
+}
+
 /* body {
     font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
 } */

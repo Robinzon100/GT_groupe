@@ -55,63 +55,110 @@
 
 
     <div class=" partners__grid text-center">
-        <ul class=" partners text-center">
+        <ul class=" partners text-center  ">
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/HPE.png" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top mt-3 pb-4 p-5" src="img/partners img/HPE.png" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
 
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Cisco.png" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Cisco.png" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Dell_EMC.png" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top mt-5 p-5" src="img/partners img/microsoft.jpg"alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img//F5.png" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/F5.png" style="width: 11.5rem;"  alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/vmware.png" style="margin-top:3.7rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/APC.png" style="margin-top:1.1rem"alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Fortinet.png" style="margin-top:3.9rem"alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h3>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Dell_EMC.png" style="margin-top:3.5rem" style="margin-top:3.5rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top" src="img/partners img/Capture.JPG" alt=""></a> 
-                    <h2 style = "color:yellow" > Golden</h4>
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Aruba.png" style="margin-top:1.7rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
                 </div>
             </li>
-            
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Canon.png" style="margin-top:2.1rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Tiriple_Lite.jpg" style="margin-top: 0.5rem; padding-bottom: 2rem !important;" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/IBM.png" style="margin-top:0rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/veeam-logo-1024x261.png" style="margin-top:2.6rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/RUCKUS.png" style="margin-top:0.2rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Splunk.png" style="margin-top:2.2rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/LexmarkLogo_CMYK_1375.jpg" style="margin-top:3rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/HP.svg" style="margin-top: -4.9rem;padding: 5rem !important;" alt=""></a> 
+                    <h2 style = "color:#FFD700" > Golden</h2>
+                </div>
+            </li>
 
         </ul>
 

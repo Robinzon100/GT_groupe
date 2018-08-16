@@ -1,5 +1,4 @@
-.main{
-    max-width: 80em;
+.main_container{
     margin:0 auto;
     margin-top: 10em;
 }
@@ -31,3 +30,4 @@ thead .bg-dark{
     vertical-align: bottom;
     border-bottom: 2px solid #11669f;
 }
+

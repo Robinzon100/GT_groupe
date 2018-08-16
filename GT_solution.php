@@ -42,11 +42,11 @@ include("includes/header_nav.php");
 ?>
 
 
-<main class = "main">
+<main class = "main_container">
     <h1 class="display-3 font-weight-bold text-center m-5 serv-title">Data Infrastructure</h1>
 
 
-    <table class="table table-hover">
+<table class="table table-hover">
     <thead>
         <tr>
             <th scope="col" colspan="8" class = "text-center display-4 table-titles " >Feature Solutions</th>
@@ -103,12 +103,12 @@ include("includes/header_nav.php");
             <td> <a href="https://www.dellemc.com/sr-ba/servers/index.htm"> Dell/EMC </a> </td>
         </tr>
     </tbody>
-    </table>
+</table>
 
     <hr class = "my-5">
 
 
-    <table class="table table-hover my-5">
+<table class="table table-hover my-5">
     <thead>
         <tr>
             <th scope="col" colspan="4" class = "text-center display-4 table-titles" >Primary Solution</th>

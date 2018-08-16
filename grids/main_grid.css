@@ -25,16 +25,14 @@
         padding: 5px 2px 5px 8px;
         font-size: 13px;
     }
- 
     
 }
 
 
- 
+
 
 
 @media (min-width: 1366px) {
- 
     .main_content_grid{
         margin-top: 5em !important;
         display: flex;
@@ -49,7 +47,7 @@
         
 
     }
- 
+
 
     .dropdown:hover>.dropdown-menu {
         width: auto;
@@ -59,12 +57,11 @@
         padding: 15px auto;
         width: auto;
         font-size: 15px;
- 
+
 
 }
 
 @media (min-width: 1500px) {
- 
     .main_content_grid{
         margin-top: 5em !important;
         display: flex;

@@ -101,10 +101,8 @@
 
 
 .footer{
-    position:absolute !important;
-    bottom:0 !important;
-    height: 15% !important;
-    
+    margin-bottom: -16rem;
+    bottom: 0;
 }
 
 

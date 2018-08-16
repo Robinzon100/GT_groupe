@@ -73,9 +73,10 @@
                             <a href="">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Vendors</a>
-                            <a class="dropdown-item" href="/GT_solution.php">GT Solution</a>
-                            <a class="dropdown-item" href="/staff.php">Staff</a>
+                        <a class="dropdown-item" href="vendors.php">Vendors</a>
+                            <a class="dropdown-item" href="GT_solution.php">GT Solution</a>
+                            <a class="dropdown-item" href="staff.php">Staff</a>
+                            <a class="dropdown-item" href="about.php">About us</a>
                         </div>
                     </div>
                 </li>
@@ -85,7 +86,7 @@
                             <a href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="services_server_page.php">Server Infrastructure</a>
+                        <a class="dropdown-item" href="services_server_page.php">Servers and Data Storage Systems​</a>
                             <a class="dropdown-item" href="/Network_Accesories_&_Installation_services.php">Network Accesories & Installation</a>
                             <a class="dropdown-item" href="/PC_and_Workstation_services.php">PC and Workstation</a>
                             <a class="dropdown-item" href="/CCTB _&_Security_Systems_services.php">CCTB & Security Systems</a>
