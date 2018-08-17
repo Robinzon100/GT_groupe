@@ -4,13 +4,16 @@ padding: 0 !important;
 /* cursor: url(img/cursor_img/my-mouse-pointer.cur), auto !important; */
 /* cursor: url("img/cursor_img/X3_arrow.gif"), default !important;
 cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
-
-
-
-
 } 
 
-
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 20rem;
+    z-index: 1;
+    top: 42rem;
+    background: #f8f8f800;
+}
 
 /*=============================================
                 nav bar

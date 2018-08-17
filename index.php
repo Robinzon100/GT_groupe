@@ -24,7 +24,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="src/collapse.js"></script>
-    
+
     
     
 
@@ -34,7 +34,7 @@
 
 
 <body>
-
+<div id="particles-js"></div>
 
 
     <nav class="navbar fixed-top navbar-expand-md navbar-light ">
@@ -262,7 +262,6 @@
 
 
 
-
 <div class="fancy_cards">
     <div class="blog-card spring-fever server_card" id="long_card_1">
         <h1 class="m-3">Server Infrastructure</h1>
@@ -455,6 +454,12 @@
 </footer>
 
 
+
+
+
+ 
+<script src="js.1/particles.js"></script>
+<script src="js/particles.js"></script>
 
 
 </body>

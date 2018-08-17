@@ -65,11 +65,7 @@
     <div class="main_text server_text fixed-bottom" onclick="form_anim(this)">
         <h3>
             in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both physical devices as well as software and engineering installation services​
-        </h3>
- 
-
-
-        
+        </h3>    
     </div>
     <main class = "main_container m-5 mb-5">
     <h1 class="display-3 font-weight-bold text-center m-5 serv-title" style="margin-top:-32rem !important">Data Infrastructure</h1>
