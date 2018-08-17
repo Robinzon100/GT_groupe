@@ -111,7 +111,7 @@ label{
 
 main table .table-titles{
     font-family: 'Roboto', sans-serif !important; 
-    font-size: calc(15px + (55 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-size: calc(15px + (40 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
 }
 
 main table{

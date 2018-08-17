@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="/grids/main_grid.css">
     <link rel="stylesheet" href="/services_server_page.css">
     <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="partners.css">
 
       
     <script src="js/jquary.js"></script>
@@ -64,10 +65,48 @@ The company proposes perfect solutions both, for huge and medium business and go
     There are about 100 companies in the <b> GT Group's</b> customers list who are considered as one of the leading and successful businesses in various fields
     </h3>
 
-    <div class="text-center m-5 about">
-        <img src="img/about.JPG" alt="">
-    </div>
 
+
+<div class=" partners__grid text-center">
+    <ul class=" partners text-center  ">
+        <li> 
+            <div class="card" height="21rem;">
+                <img class = "card-img-top mt-3 pb-4 p-5" src="img/about-icon-1.JPG"  alt=""> 
+                <ul class="text-left mb-5">
+                    <li>Micro financial organizations</li>
+                    <li>Transport companies</li>
+                    <li>Foreign organizations</li>
+                </ul>
+            </div>
+        </li>
+
+        <li> 
+            <div class="card">
+                <img class = "card-img-top mb-5 pb-4 p-5 " src="img/about-icon-2.JPG"alt=""  > 
+                <ul class="text-left">
+                    <li>Banking sector</li>
+                    <li>Gambling business</li>
+                    <li>International organizations</li>
+                    <li>Pharmaceutical organizations</li>
+                    <li>Hotel</li>
+                    <li>Developer companies</li>
+                </ul>
+            </div>
+        </li>
+
+        <li> 
+            <div class="card">
+                <img class = "card-img-top mt-3 pb-4 p-5 " src="img/about-icon-3.JPG"alt=""> 
+                <ul class="text-left mb-4 mt-3">
+                    <li>Governmental administratiove bodies</li>
+                    <li>Ministries</li>
+                    <li>Legal Entries of Public Law (LEPL)</li>
+                    <li>Othr state organizations</li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+</div>
 
 </div>
 

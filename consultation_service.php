@@ -47,11 +47,11 @@
     <div class="server_title text-center">  
 
             <div class="img_cicle text-center">      
-                <img src="/img/icons/SVG/pc.svg" alt="">
+                <img src="/img/icons/SVG/server.svg" alt="">
             </div>
 
 
-            <h1 class = "server_title_title">Personal systems and printing equipment​ </h1>
+            <h1 class = "server_title_title">Consultations, recommendations, audits and assessment </h1>
     </div>
 
 
@@ -64,10 +64,9 @@
 
     <div class="main_text server_text fixed-bottom"  onclick="form_anim(this)">
         <h3  style="margin-bottom:4rem;">
-         <b> GT Group</b> offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements
-         <br>
-         The company also provides equipping with small, medium and large capacity printing equipment as well as wide-format printing equipment for the organizations.  <b> GT Group</b> is implementing the so called "Outsourcing" service for printing devices which means "payments in accordance with the printed page"
-        ​</h3>    
+        GT Group offers consulting and auditing services that will help you in correct planning  of IT infrastructure and its dynamic development so that IT infrastructure would not be an obstacle for timely realization of business goals and objectives.​
+
+Our team is ready to help you evaluate and analyze the state of your present IT infrastructure and select the schemes and technologies for its modernization.​        </h3>    
     
 <table class="table-hover mt-5" style="border:1px solid #080e20">
         <tr class="row">
@@ -76,21 +75,11 @@
 
         <tr class="row">
             <h4>
-                <ul class="ml-4" > <h3 class="text-danger" >Products</h3>
-                    <li>Desktops </li>
-                    <li>Monitors </li>
-                    <li>Notebooks​</li>
-                    <li>Tablet computers</li>
-                    <li>Workstation</li>
-                    <li>Uninterruptible power suplie</li>
-                </ul>
-            </h4>
-        </tr>
-
-        <tr class="row">
-            <h4>
-                <ul class="ml-4" > <h3 class="text-danger" >Services</h3>
-                    <li>Service for warranty and non-warranty products</li>
+                <ul class="ml-4" >
+                    <li>Arrangement of changes and configuration management process</li>
+                    <li>Development of business technical continuity plan​</li>
+                    <li>Development and introduction of IT management framework​</li>
+                    <li>Construction of Information Security System​</li>
                 </ul>
             </h4>
         </tr>
@@ -99,53 +88,21 @@
 
 <table class="table-hover mt-5" style="border:1px solid #080e20">
         <tr class="row">
-            <h2 class="text-white p-3" style = "background-color:#080e20"  >Printing equipment</h2>
-        </tr>
-
-        <tr class="row">
-            <h4>
-                <ul class="ml-4" ><h3 class="text-danger" >Products</h3>
-                    <li>Printers</li>
-                    <li>Multifunctional printers</li>
-                    <li>Scanners</li>
-                    <li>Plotters</li>
-                    <li>Spending materials</li>
-                </ul>
-            </h4>
-        </tr>
-
-        <tr class="row">
-            <h4>
-                <ul class="ml-4" ><h3 class="text-danger" >Services</h3>
-                    <li>Service for warranty and non-warranty products</li>
-                    <li>„Print Outsourcing“(payment in accordance with the printed pages)</li>
-                </ul>
-            </h4>
-        </tr>
-</table>
-
-
-
-<table class="table-hover mt-5" style="border:1px solid #080e20">
-        <tr class="row">
-            <h2 class="text-white p-3" style = "background-color:#080e20"  >Key partners</h2>
+            <h2 class="text-white p-3" style = "background-color:#080e20"  >Audit and assessment</h2>
         </tr>
 
         <tr class="row">
             <h4>
                 <ul class="ml-4" >
-                    <li>HP</li>
-                    <li>Dell</li>
-                    <li>Lenovo</li>
-                    <li>Acer</li>
-                    <li>Canon</li>
-                    <li>Lexmark</li>
-                    <li>APC</li>
-                    <li>Tripp-lite</li>
+                    <li>Trainings and Recommendations on Modernization​</li>
+                    <li>Data Storage Uniform System Audit​​</li>
+                    <li>Data Center Engineering Infrastructure Audit​</li>
+                    <li>Inventory of existing Information Technologies Systems​</li>
+                    <li>Evaluation of adequacy of Information Technology capacities​</li>
+                    <li>Assessment of risks and information security level</li>
                 </ul>
             </h4>
         </tr>
- 
 </table>
   
     </div>

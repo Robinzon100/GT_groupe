@@ -1,4 +1,27 @@
 .about img{
     width: 100%;
     height: auto;
+     
+}
+
+.card{
+    height: 30rem !important;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.164);
+}
+
+ 
+.card-img-top{
+    transform: scale(.9);
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+
+.card .text-left{
+    list-style: circle;
+    margin-left: 2rem;
+}
+
+.card li{
+    margin-top: 1rem;
 }

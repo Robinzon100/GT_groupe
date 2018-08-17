@@ -73,7 +73,7 @@
                             <a href="">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="vendors.php">Vendors</a>
+                            <a class="dropdown-item" href="vendors.php">Clients</a>
                             <a class="dropdown-item" href="GT_solution.php">GT Solution</a>
                             <a class="dropdown-item" href="staff.php">Staff</a>
                             <a class="dropdown-item" href="about.php">About us</a>
@@ -86,12 +86,10 @@
                             <a href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="services_server_page.php">Servers and Data Storage Systems​</a>
-                            <a class="dropdown-item" href="/Network_Accesories_&_Installation_services.php">Network Accesories & Installation</a>
-                            <a class="dropdown-item" href="/PC_and_Workstation_services.php">PC and Workstation</a>
+                            <a class="dropdown-item" href="services_server_page.php">Servers and Data Storage Systems​</a>
+                            <a class="dropdown-item" href="/consultation_service.php">Consultations, recommendations, audits <br> and assessment ​</a>                            
+                            <a class="dropdown-item" href="/PC_and_Workstation_services.php">Personal systems and printing equipment​</a>
                             <a class="dropdown-item" href="/CCTB _&_Security_Systems_services.php">CCTB & Security Systems</a>
-                            <a class="dropdown-item" href="/Laptops_services.php">Laptops</a>
-                            <a class="dropdown-item" href="/Printing_Equipment_services.php">Printing Equipment</a>
                             <a class="dropdown-item" href="/Voice_and_Video_Conference_services.php">Voice and Video Conference</a>
                         </div>
                     </div>
@@ -191,7 +189,7 @@
     </div>
     <div class="car_1">
         <div class="card_container">
-        <img src="img/icons/SVG/network.svg"   alt="">
+        <img src="img/icons/SVG/network.svg" style="margin-top: -1rem;"   alt="">
         <h5 class="text-center py-1"> <b> Network Accesories and Installation </b></h5>
         <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Cumque omnis quisquam fugiat, facilis a perferendis?</p>
@@ -257,6 +255,7 @@
     </div>
 </div>
 </div>
+
 
 
 

@@ -219,8 +219,9 @@ ul li div a {
 
 .slice::after {
     content: "";
-    background: url(img/hero_sever);
+    background: url(img/test-hero.jpg);
     background-repeat: no-repeat;
+ 
     background-size: cover;
     opacity: 0.5;
     top: 0;
