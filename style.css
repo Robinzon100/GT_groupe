@@ -185,284 +185,58 @@ ul li div a {
 /*=============================================*/
 
 .hero{
-    margin-top: 3em;
     width: 100%;
-    height: auto;
-    transform-origin: translate(50%,50%);
+    height: 80vh;
     overflow: hidden;
-    position: absolute;
-    -moz-user-select: -moz-none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
- 
-    /*
-      Introduced in IE 10.
-      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
-    */
-    -ms-user-select: none;
-    user-select: none;
-
-}
-
-
-
-.slice{
-    position: absolute;
-    z-index: 10;
-    width: 100%;
-    height: 100%;
-    background-color: #080e20;
-    animation: slice_animation 0.5s ease-out;
-    backface-visibility: hidden;
- 
-}
-
-.slice::after {
-    content: "";
-    background: url(img/heroimage.jpg);
-    background-repeat: no-repeat;
+    background-image: url("img/heroimage.jpg");
     background-size: cover;
-    opacity: 0.5;
+    background-position: 50% 22%;
+    color: rgba(0, 0, 0, 0.103);
+}
+
+
+.hero::after{
+    content: "";
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    z-index: 1;
     top: 0;
     left: 0;
-    bottom: 0;
-    right: 0;
-    position: absolute;
-    z-index: -1;   
-    background-position: 50% 23%;
-  }
+    background-color: rgba(0, 0, 0, 0.5);
+}
 
-  .hero_title{
-      display: inline-block;
-      position: absolute; 
-      transform: translate(-50%,-50%);
-      top: 80%;
-      left: 50%;
-      z-index:13;
-      opacity: 0;
-  }
+.hero__img{
+    width: 100%;
+    height: auto;
+    opacity: 0;
+}
 
-
-  .main_title{
-    text-transform: uppercase;
-    position: absolute;
-    z-index: 100;
-    padding: 0;
-    margin:0;
-    left: 0%;
-    top: -74%;
+.hero__logo{
     transform: translate(-50%,-50%);
-    transform: scale(0.2);
-    color: white;
-    margin-top: 0;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden; 
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    opacity: 1;
-    animation: 1s main_logo_up ease ;
-    animation-delay: 1s;
-}
-
-  @keyframes main_logo_up{
-      0%{
-          top: -74;
-   
-      }
-
-      100%{
-        top: -80%;
-
-        }
-  }
-
-
-.video_slice video{
-    float: right;
-    width: 75%;
- 
-}
-
-
-.video_container{
-    width: 100%;
-    height: 100%;  /*<=======zomebi sheucvale*/
- 
-}
- 
-
-.video_slice{
-    clip-path: polygon(59% 0 ,100% 0, 100% 100% , 39.7% 100% ); 
-    width: 100%;
-    height: 100%;
-    background-color: #080e20;
-    overflow: hidden;
-    backface-visibility: hidden;
-    animation: video_slice_animation 0.5s ease-out;
-}
-
-@keyframes video_slice_animation{
-    0%{
-        opacity: 0;
-        transform: translateX(500px);
-    }
-
-    100%{
-        opacity: 1;
-        transform: translate(0);
-    }
-}
-
-
-
-
-.hero_sm_image1{
     position: absolute;
-    z-index: 12;
-    top: 25%;
-    left: -3%;
+    top: 43%;
+    left: 50%;
+    z-index: 2;
+    animation: 5s hero_logo_animation ease;
+    animation-delay: 2s;
+}
+
+.hero__title{
+    margin-top: -40rem;
     opacity: 0;
-    width: 23%;
-    height: auto;
-    animation: hero_sm_image_animation1 1s  1s  forwards ;
-
-}
-
-.hero_sm_image1 img{
-    transform: scaleX(-1);
-    opacity:0.95;
-    width: 100%;
-    height: auto;
 }
 
 
-@keyframes hero_sm_image_animation1{
+@keyframes hero_logo_animation{
     0%{
-        opacity: 0;
-        transform: translateX(-500px);
-    }
-
-    80%{
-        transform: translateX(10px);
+        transform: translateY(-50%);
     }
 
     100%{
-        transform: translate(0);
-        opacity: 1;
+        transform: translateY(-45%);
     }
 }
-
-.hero_sm_image2{
-    position: absolute;
-    z-index: 11;
-    top: 50%;
-    left: 18%;
-    opacity: 0;
-    animation: hero_sm_image_animation2 1s  1.3s  forwards ;
-}
-
-.hero_sm_image2 img{
-    opacity:0.95;
-    width: 40%;
-    height: auto;
-}
-
-
-@keyframes hero_sm_image_animation2{
-    0%{
-        opacity: 0;
-        transform: translateX(-300px);
-    }
-
-    80%{
-        transform: translateX(10px);
-    }
-
-    100%{
-        transform: translate(0);
-        opacity: 1;
-    }
-}
-
-
-
-
-
-.hero_sm_image3{
-    position: absolute;
-    z-index: 10;
-    top: 60%;
-    left: 22%;
-    opacity: 0;
-    animation: hero_sm_image_animation3 1s  1.6s  forwards ;
-}
-
-.hero_sm_image3 img{
-    opacity:0.95;
-    width: 100%;
-    height: auto;
-    transform: scaleX(-1);
-}
-
-
-@keyframes hero_sm_image_animation3{
-    0%{
-        opacity: 0;
-        transform: translateX(-700px);
-    }
-
-    80%{
-        transform: translateX(10px);
-    }
-
-    100%{
-        transform: translate(0);
-        opacity: 1;
-    }
-}
-
-
-
-
-
-
-
-
-.main_title div{
-    opacity: 0;
-    animation: 0.8s main_title_animation forwards;
-    animation-delay: 2.8s;
-}
-
-.main_title small{
-    opacity: 0;
-    animation: 1s main_title_animation forwards;
-    animation-delay: 4s;
-}
-
-
-@keyframes main_title_animation{
-    0%{
-        opacity: 0;
-        transform: translateY(15px);
-    }
-
-    100%{
- 
- 
-        transform: translate(0);
-        opacity: 1;
-    }
-}
-
-    
-
-
-
-
-
-
 
 
 
@@ -481,7 +255,7 @@ ul li div a {
 }
 
 .card_main_container{
-    padding-top: 57em;
+    /* padding-top: 57em; */
 }
 
  

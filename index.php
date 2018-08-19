@@ -126,30 +126,19 @@
 
 
 
-    <div class="hero" >
-
-
-      
-               <img class="main_title  " src="img/icons/logo2.svg" alt="">
-                <h1 class="display-2 hero_title" > Inteligent Solution</h1>
-
-
-
-        <div class="slice"></div>
-
-        <div class="video_slice">
-            <div class="video_conatainer">
-                <video src="img/Network - 14907.webm" autoplay loop muted></video>
-            </div>
-        </div>
-
-
-        
-        
-        
-        
-        
+<section class="hero">
+    <div class="hero__img-container">
+        <img class = "hero__img" src="img/heroimage.jpg" alt="" srcset="">
     </div>
+
+
+    <img class = "hero__logo" src="img/icons/logo2.svg" alt="" style="width:15%;">
+
+
+    <h1 class="display-3 text-center hero__title">Intelligent Solutions</h1>
+
+
+</section>
     
 
     
