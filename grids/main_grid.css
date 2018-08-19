@@ -206,7 +206,7 @@
 }
 
 
-@media (min-width : 280px)  and (max-width: 768px) {
+@media (min-width : 230px)  and (max-width: 768px) {
     .fancy_cards{  
         display: none;
     }

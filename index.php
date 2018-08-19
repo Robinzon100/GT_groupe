@@ -129,10 +129,9 @@
     <div class="hero" >
 
 
-        <h1 class="main_title">
-               <div class="com_name" unselectable="on">GT Group</div>  
-               <div> <small unselectable="on">inteligent solution</small> </div>
-        </h1>
+      
+               <img class="main_title  " src="img/icons/logo2.svg" alt="">
+                <h1 class="display-2 hero_title" > Inteligent Solution</h1>
 
 
 
@@ -145,17 +144,6 @@
         </div>
 
 
-        <div class="hero_sm_image1">
-            <img src="img/server2_transparant.png" alt="">
-        </div>
-
-        <div class="hero_sm_image2">
-                <img src="img/server3_transparant.png" alt="">
-            </div>
-            
-            <div class="hero_sm_image3">
-            <img style="filter: invert(100%)" src="img/server4_transparant.png" alt="">
-        </div>
         
         
         

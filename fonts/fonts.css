@@ -42,7 +42,11 @@ h5{
     font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
 } 
 
-
+.hero_title{
+    font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto'!important;
+    color:white;
+}
 .main_title div{
     font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
     font-family: 'Roboto'!important;
