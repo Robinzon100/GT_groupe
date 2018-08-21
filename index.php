@@ -246,8 +246,7 @@
        
         <!-- /.title-content -->
         <h5  class="card-info">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-        et magni vel.
+        in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both 
         </h5>
     </div>
 
@@ -267,15 +266,14 @@
 
 
     <!-- /.blog-card -->
-    <div class="blog-card spring-fever short_card pc_card" id="">
-        <h1 class="m-3">Pc and Workstation</h1>
+    <div class="blog-card spring-fever short_card CCTV-card" id="">
+        <h1 class="m-3">CCTV</h1>
         <hr/>
-        <h2 class="intro"> aliquip ex ea commodo.</h2>
+        <h2 class="intro">The Best Security Companies Have to Offer </h2>
        
         <!-- /.title-content -->
         <h5  class="card-info">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-        et magni vel.
+        GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...
         </h5>
     </div>
 
@@ -345,15 +343,14 @@
 
         <div class="carousel-item  ">
 
-            <div class="blog-card spring-fever short_card pc_card" id="">
-                <h1 class="m-3">Pc and Workstation</h1>
+            <div class="blog-card spring-fever short_card CCTV-card" id="">
+                <h1 class="m-3">CCTV</h1>
                 <hr/>
-                <h2 class="intro"> aliquip ex ea commodo.</h2>
-
+                <h2 class="intro">The Best Security Companies Have to Offer </h2>
+            
                 <!-- /.title-content -->
-                <h5 class="card-info">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-                    et magni vel.
+                <h5  class="card-info">
+                GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...
                 </h5>
             </div>
                 

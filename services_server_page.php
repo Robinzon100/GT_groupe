@@ -68,7 +68,7 @@
         </h3>    
     </div>
     <main class = "main_container m-5 mb-5">
-    <h1 class="display-3 font-weight-bold text-center m-5 serv-title" style="margin-top:-32rem !important">Data Infrastructure</h1>
+    <h1 class="display-3 font-weight-bold text-center m-5 serv-title" style="margin-top:32rem !important">Data Infrastructure</h1>
 
 
 <table class="table table-hover">

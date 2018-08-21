@@ -12,7 +12,7 @@ cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
     width: 100%;
     height: 20rem;
     z-index: 1;
-    top: 42rem;
+    top: 50rem;
     background: #f8f8f800;
 }
 
@@ -143,6 +143,7 @@ ul li div a {
     display: block;
     border-radius: 0% !important;
     animation: 0.8s dropdown_animation forwards;
+    
 }
 
  
@@ -188,10 +189,16 @@ ul li div a {
     width: 100%;
     height: 80vh;
     overflow: hidden;
-    background-image: url("img/heroimage.jpg");
+    background-image: url("img/heroimage2.jpg");
     background-size: cover;
-    background-position: 50% 22%;
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
     color: rgba(0, 0, 0, 0.103);
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 
@@ -218,25 +225,62 @@ ul li div a {
     top: 43%;
     left: 50%;
     z-index: 2;
-    animation: 5s hero_logo_animation ease;
-    animation-delay: 2s;
+    animation: 0.3s hero_logo_animation forwards;
+    animation-delay: 3s;
+    transition: all 1s forwards;
 }
 
 .hero__title{
-    margin-top: -40rem;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    z-index: 2;
+    animation: typing_animation 2s steps(18) forwards;
+    animation-delay: 4s;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 4px solid white;
+    width: 18ch;
     opacity: 0;
+}
+
+@keyframes typing_animation{
+    0%{
+        width: 0ch;
+        opacity: 0;
+    }
+
+    10%{
+        opacity: 1;
+    }
+
+    99%{
+        width:16ch; 
+        opacity: 1;
+    }
+    
+    100%{
+        width:16ch; 
+        opacity: 1; 
+        border-right: none;
+    }
+
 }
 
 
 @keyframes hero_logo_animation{
     0%{
-        transform: translateY(-50%);
+        transform: translate(-50%,-50%);
     }
 
     100%{
-        transform: translateY(-45%);
+        transform: translate(-50%,-70%);        
     }
 }
+
+
+
 
 
 
@@ -391,7 +435,6 @@ img{
     margin: 0 auto;
     text-align: center;
     color: white;
-    background-image: url(img/img3.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -413,14 +456,14 @@ img{
     background-repeat: no-repeat;
 }
 
-.pc_card{
-    background-image: url(img/server3_transparant.png);
-    background-size: 80%;
-    background-position: center;
+.CCTV-card{
+    background-image: url(img/CCTV.jpg);
+    background-size:cover;
+    background-position: center; 
     background-repeat: no-repeat;
 }
 
-.pc_card p{
+.CCTV-card p{
     margin-top: 4em !important;
 }
 
@@ -548,8 +591,8 @@ hr.invisible_hr{
     position: absolute;
     z-index: 10;
     width: 100%;
-    height: 25rem;
-    overflow: hidden;
+    height: 27rem;
+
 }
 
 .footer .box_right{
@@ -615,24 +658,14 @@ iframe{
 }
 
 
-@media (min-width: 280px) and (max-width:994) {
+@media (min-width : 230px)  and (max-width: 768px) {
     .footer .box_right{
-        height: 21%;
+        width: 0%;
+    }
 
+    .footer{
+        overflow: hidden;
     }
 }
 
-
-  #loading {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 100;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(192, 192, 192, 0.5);
-    background-image: url("https://i.stack.imgur.com/MnyxU.gif");
-    background-repeat: no-repeat;
-    background-position: center;
-  }
+ 
