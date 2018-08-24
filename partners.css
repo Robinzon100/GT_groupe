@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .main-container{
     width: 100%;
     height: auto;
@@ -173,6 +174,181 @@
 
 .footer{
     margin-top: 20vw;
+=======
+.main-container{
+    width: 100%;
+    height: auto;
+}
+
+
+ 
+.hero__img_container{
+    background-image: url("img/partners.jpg");
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition:all 0.3s ease;
+}
+
+.hero__img_container .img_sizer{
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.overlay {
+    background-color: #000;
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    transition: all .4s ease-in; 
+}
+
+.hero__logo_partners{
+    position: absolute;
+    z-index: 2;
+    top:0;
+    left:0;
+    transform: scale(0.2) translate(0,-110%);
+    opacity:0;
+    transition: all .4s ease-in; 
+}
+
+.hero__img_container:hover .overlay{
+    opacity:0;
+}
+
+.hero__img_container:hover .hero__logo{
+    opacity:1;
+}
+
+
+
+.partners h2,
+.partners h3,
+.partners h4{
+    opacity: 0;
+    margin: 0.5rem auto 0.5rem auto; 
+    transition: all .5s ease;
+}
+
+.partners li:hover h2{
+    opacity: 1;
+}
+
+
+.partners{
+    list-style: none;
+    max-width: 75em;
+    margin-top: 8rem !important;
+}
+
+.card{
+    width: 100%;
+    height: 17rem;
+    overflow: hidden;
+}
+
+.card a::before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    height: 1.5px;    
+    width: 100%;
+    background-color: #0b4f7d;
+    transform-origin: right top;
+    transform: scale(0, 1);
+    transition: color 0.1s, transform 0.2s ease-out;
+}
+
+.card:hover a::before,
+.card:focus a::before {
+    transform-origin: left top;
+    transform: scale(1, 1);
+}
+
+.card h2{
+    padding-top: 1.7rem;
+    padding-bottom: 1rem;
+    background-color: #0000000e;
+    width: 100%;
+    height:100%;
+    margin: 0;
+}
+
+.card-img-top{
+    margin: auto 0;
+}
+
+
+
+.card h2 {
+    background-repeat: no-repeat;
+    background-position: -80px -80px, 0 0;
+    
+    background-image: -webkit-linear-gradient(
+      top left,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0.2) 37%,
+      rgba(255, 255, 255, 0.8) 45%,
+      rgba(255, 255, 255, 0.0) 50%
+    );
+    background-image: -moz-linear-gradient(
+      0 0,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0.2) 37%,
+      rgba(255, 255, 255, 0.8) 45%,
+      rgba(255, 255, 255, 0.0) 50%
+    );    
+    background-image: -o-linear-gradient(
+      0 0,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0.2) 37%,
+      rgba(255, 255, 255, 0.8) 45%,
+      rgba(255, 255, 255, 0.0) 50%
+    );
+    background-image: linear-gradient(
+      0 0,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0.2) 37%,
+      rgba(255, 255, 255, 0.8) 45%,
+      rgba(255, 255, 255, 0.0) 50%
+    );
+    
+    -moz-background-size: 100% 250%, 100% 100%;
+         background-size: 100% 250%, 100% 100%;
+    
+    -webkit-transition: background-position 0s ease;
+       -moz-transition: background-position 0s ease;       
+         -o-transition: background-position 0s ease;
+            transition: background-position 0s ease;
+  }
+  
+  .card:hover h2{
+    background-position: 0 0, 0 0;
+    
+    -webkit-transition-duration: 0.5s;
+       -moz-transition-duration: 0.5s;
+            transition-duration: 0.5s;
+  }
+
+
+
+
+
+.footer{
+    margin-top: 20vw;
+>>>>>>> 1d0683f38d8e62d17de5a0a4c59101daef2a3798
 =======
 .main-container{
     width: 100%;

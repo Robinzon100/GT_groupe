@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* nav{
     font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1700 - 700)))!important;
 }
@@ -135,6 +136,137 @@ main table{
 .contacts__info p {
     font-family: 'Roboto', sans-serif !important; 
     font-size: calc(18px + (30 - 18) * ((100vw - 300px) / (1900 - 700)))!important;
+=======
+/* nav{
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1700 - 700)))!important;
+}
+
+
+
+
+/* body {
+    font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
+} */
+
+
+
+/* p{ 
+    font-size: calc(13px + (16 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+h5{ 
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}*/
+
+
+nav{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(15px + (18 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+nav .dropdown-item{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(10px + (16 - 10) * ((100vw - 300px) / (1900 - 700)))!important;
+    padding-right: .5rem !important;
+}
+
+/* body {
+    font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
+} */
+
+
+
+ p{ 
+    font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+h5{ 
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+} 
+
+.hero__title{
+    font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto', cursive;
+    font-weight: normal;
+    font-style: italic;
+    color: white;
+    text-shadow: 0px 5px 2px #000000, 0 0 15px rgba(0, 0, 255, 0.13);   
+}
+.main_title div{
+    font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto'!important;
+    font-style: medium;
+    font-weight: 600;
+    font-size: 8em;
+    text-shadow: 0px 0px 10px  black , 0 0 5px #0000FF;
+}
+
+.server_title h1{
+    font-size: calc(31px + (90 - 31) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-family: 'Roboto'!important;
+    font-style: medium;
+    font-weight: normal;
+    color: white;
+    text-shadow: 0px 5px 2px #000000, 0 0 15px #0000FF;    
+}
+
+.server_text h3{
+    font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+.server_text {
+    font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+.blog-card{
+    font-family: sans-serif !important;
+    text-shadow: 0px 0px 2px  black , 0 0 5px black;
+}
+
+
+
+
+
+
+
+
+
+div small{
+    font-family: 'Roboto'!important;
+    font-style: normal;
+    font-weight: slim;
+    font-size: calc(14px + (70 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+label{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(14px + (24 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+.carousel h1, .carousel h2, .carousel hr{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(20px + (24 - 20) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+
+
+.serv-title,
+.net-title{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(20px + (70 - 20) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+main table .table-titles{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(15px + (40 - 15) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+main table{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(10px + (20 - 10) * ((100vw - 300px) / (1900 - 700)))!important;
+>>>>>>> 1d0683f38d8e62d17de5a0a4c59101daef2a3798
 =======
 /* nav{
     font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1700 - 700)))!important;
