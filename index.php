@@ -15,9 +15,8 @@
     <link rel="stylesheet" href="css/media_query.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
-    
+    <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet"> 
 
-  
     <script src="js/jquary.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -70,7 +69,7 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                         <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="">ABOUT</a>
+                            <a href="about.php">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="vendors.php">Clients</a>
@@ -83,7 +82,7 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                         <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="#">SERVICES</a>
+                            <a href="CARDS">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="services_server_page.php">Servers and Data Storage Systems​</a>
@@ -120,12 +119,12 @@
 
 
 
+ 
 
 
 
 
-
-
+ 
 <section class="hero">
     <div class="hero__img-container">
         <img class = "hero__img" src="img/heroimage.jpg" alt="" srcset="">
@@ -135,7 +134,7 @@
     <img class = "hero__logo" src="img/icons/logo2.svg" alt="" style="width:15%;">
 
 
-    <h1 class="display-3 text-center hero__title">Intelligent Solutions</h1>
+    <h1 class="display-3 text-center hero__title">Intelligent solutions</h1>
 
 
 </section>
@@ -149,8 +148,8 @@
     
     <div id="card_animation" class="cardcard_animation"></div>
     
-    <div class="card_main_container">
-        <div class="main_content_grid" style="margin-top: 6em;">
+<div class="card_main_container" id="CARDS">
+    <div class="main_content_grid" style="margin-top: 6em;">
 
 
     <div class="car_1" id="cards">
@@ -160,9 +159,7 @@
         <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Cumque omnis quisquam fugiat, facilis a perferendis?</p>
             </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
+        
     </div>
     <div class="car_1">
         <div class="card_container">
@@ -171,66 +168,79 @@
         <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Cumque omnis quisquam fugiat, facilis a perferendis?</p>
             </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
-    </div>
-    <div class="car_1"> 
-        <div class="card_container">
-        <img src="img/icons/SVG/pc.svg"  alt="">
-        <h5 class="text-center py-1"> <b> Pc and Workstation </b></h5>
-        <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
-            </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
+        
     </div>
     <div class="car_1">
         <div class="card_container">
-        <img src="img/icons/SVG/camera.svg"   alt="">
-        <h5 class="text-center py-1"> <b> CCTV and Security </b></h5>
-        <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
-            </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
-    </div>
-    <div class="car_1">
-        <div class="card_container">
-        <img src="img/icons/SVG/laptop.svg"  alt="">
-        <h5 class="text-center py-1"> <b> Laptops </b></h5>
-        <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
-            </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
-    </div>
-    <div class="car_1">
-        <div class="card_container">
-        <img src="img/icons/SVG/printer.svg"  alt="">
-        <h5 class="text-center py-1"> <b> Printing Equipment </b></h5>
-        <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
-            </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
-    </div>
-    <div class="car_1">
-        <div class="card_container">
-        <img src="img/icons/SVG/live_chat.svg"  alt="">
-        <h5 class="text-center py-1"> <b> Voice and Video Conference </b></h5>
+            <img src="img/icons/SVG/camera.svg"   alt="">
+            <h5 class="text-center py-1"> <b> CCTV and Security </b></h5>
             <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                Cumque omnis quisquam fugiat, facilis a perferendis?</p>
             </div>
-        <p class="btn btn-outline-dark text-dark px-5 py-1" 
-            style = "border-radius:50em; border:0.01px solid rgba(128, 128, 128, 0.377);"> 
-            <b> More </b></p>
-    </div>
-</div>
+            
+        </div>
+        
+        <div class="car_1"> 
+            <div class="card_container">
+            <img src="img/icons/SVG/pc.svg"  alt="">
+            <h5 class="text-center py-1"> <b> Pc and Workstation </b></h5>
+            <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+            
+        </div>
+    
+        
+        
+        <div class="car_1">
+            <div class="card_container">
+                <img src="img/icons/SVG/printer.svg"  alt="">
+                <h5 class="text-center py-1"> <b> Printing Equipment </b></h5>
+                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+                
+            </div>
+        <div class="car_1">
+            <div class="card_container">
+            <img src="img/icons/SVG/live_chat.svg"  alt="">
+            <h5 class="text-center py-1"> <b> Video Telepresence and Voice </b></h5>
+                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+            
+        </div>
+
+        <!-- <div class="car_1">
+            <div class="card_container">
+            <img src="img/icons/SVG/live_chat.svg"  alt="">
+            <h5 class="text-center py-1"> <b> Voice and Video Conference </b></h5>
+                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+            
+        </div>
+
+        <div class="car_1">
+            <div class="card_container">
+            <img src="img/icons/SVG/live_chat.svg"  alt="">
+            <h5 class="text-center py-1"> <b> Voice and Video Conference </b></h5>
+                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+            
+        </div>
+
+        <div class="car_1">
+            <div class="card_container">
+            <img src="img/icons/SVG/live_chat.svg"  alt="">
+            <h5 class="text-center py-1"> <b> Voice and Video Conference </b></h5>
+                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                </div>
+            
+        </div> -->
+        </div>
 </div>
 
 
@@ -240,9 +250,9 @@
 
 <div class="fancy_cards">
     <div class="blog-card spring-fever server_card" id="long_card_1">
-        <h1 class="m-3">Server Infrastructure</h1>
+        <h1 class="m-3">Data Infrastructure</h1>
         <hr/>
-        <h2 class="intro"> aliquip ex ea commodo.</h2>
+        <h2 class="intro"> Primary and Feature Solutions</h2>
        
         <!-- /.title-content -->
         <h5  class="card-info">
@@ -253,9 +263,9 @@
 
     <!-- /.blog-card -->
     <div class="blog-card spring-fever short_card network_card" id="">
-        <h1 class="m-3">Network Accesories and Installation</h1>
+        <h1 class="m-3">Network and Security Solution</h1>
         <hr/>
-        <h2 class="intro"> aliquip ex ea commodo.</h2>
+        <h2 class="intro"> Primary and Feature Solutions</h2>
        
         <!-- /.title-content -->
         <h5  class="card-info ">
@@ -281,7 +291,7 @@
     <!-- /.blog-card -->
     
     <div class="blog-card spring-fever laptop_card" id="long_card_2">
-        <h1 class="m-3">Laptops</h1>
+        <h1 class="m-3">Personal Systems</h1>
         <hr/>
         <h2 class="intro"> aliquip ex ea commodo.</h2>
        
@@ -308,9 +318,9 @@
         <div class="carousel-item active">
 
             <div class="blog-card spring-fever server_card" id="long_card_1">
-                <h1 class="m-3">Server Infrastructure</h1>
+                <h1 class="m-3">Data Infrastructure</h1>
                 <hr/>
-                <h2 class="intro"> aliquip ex ea commodo.</h2>
+                <h2 class="intro"> Primary and Feature Solutions</h2>
 
                 <!-- /.title-content -->
                 <h5 class="card-info">
@@ -326,16 +336,16 @@
         <div class="carousel-item  ">
 
                 <div class="blog-card spring-fever short_card network_card" id="">
-        <h1 class="m-3">Network Accesories and Installation</h1>
-        <hr/>
-        <h2 class="intro"> aliquip ex ea commodo.</h2>
-       
-        <!-- /.title-content -->
-        <h5  class="card-info ">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-        et magni vel.
-        </h5>
-    </div>
+                    <h1 class="m-3">Network Accesories and Security</h1>
+                    <hr/>
+                    <h2 class="intro"> Primary and Feature Solutions</h2>
+                
+                    <!-- /.title-content -->
+                    <h5  class="card-info ">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
+                    et magni vel.
+                    </h5>
+                </div>
                 
             </div>
 

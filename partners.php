@@ -49,7 +49,8 @@
         <div class="hero__img_container img_container">
             <div class="overlay" ></div>
             <img class="img_sizer" src="img/partners.jpg" alt="">
-            <img class="hero__logo" src="img/icons/logo2.svg" alt="" style="width:15%;">
+            <img class="hero__logo " src="img/icons/logo2.svg" alt="" style="width:20%;">
+            <h1 class="display-3 text-center hero__title mt-5">Our Partners</h1>
         </div>
     </div>
 

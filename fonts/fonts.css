@@ -2,6 +2,9 @@
     font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1700 - 700)))!important;
 }
 
+
+
+
 /* body {
     font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
 } */
@@ -44,8 +47,11 @@ h5{
 
 .hero__title{
     font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
-    font-family: 'Roboto'!important;
-    color:white;
+    font-family: 'Roboto', cursive;
+    font-weight: normal;
+    font-style: italic;
+    color: white;
+    text-shadow: 0px 5px 2px #000000, 0 0 15px rgba(0, 0, 255, 0.13);   
 }
 .main_title div{
     font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;

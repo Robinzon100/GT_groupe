@@ -4,7 +4,7 @@
 }
 
 
-
+ 
 .hero__img_container{
     background-image: url("img/partners.jpg");
     position: relative;
@@ -35,7 +35,7 @@
     transition: all .4s ease-in; 
 }
 
-.hero__logo{
+.hero__logo_partners{
     position: absolute;
     z-index: 2;
     top:0;

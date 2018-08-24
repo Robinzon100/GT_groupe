@@ -30,6 +30,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 </head>
+<style>
+    .main_img{
+        width:100%;
+        height:auto;
+    }
+</style>
+
+
 <body>
     
 
@@ -67,7 +75,7 @@ Our company works in many directions in the field of security. They are as follo
 
  <b> GT Group </b> is ready to implement task of any complexity in compliance with international standards and requirements, which implies complete audit, evaluation, consultation, delivery, putting into operation and support in the direction of CCTV and fire systems in accordance with the latest technologies and precedents.​</h3>
 
-    <img src="img/services_images/CCTV.JPG" alt="" class="text-center mt-5">
+    <img class="main_img" src="img/services_images/CCTV.JPG" alt="" class="text-center mt-5">
 
     </div>
 

@@ -12,7 +12,7 @@ cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
     width: 100%;
     height: 20rem;
     z-index: 1;
-    top: 50rem;
+    top: 80vh;
     background: #f8f8f800;
 }
 
@@ -24,9 +24,10 @@ cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
 
 nav{
     background-color: #080e20 !important;
-    border-bottom: solid #11669f 3px;
+    border-bottom: solid #11669f 2px;
     height: 3.5em !important;
     margin-bottom: 80% !important;
+    box-shadow: 0 3px 4px #0006;
 }
 
 nav .navbar-brand img{
@@ -171,6 +172,7 @@ ul li div a {
 
 
 
+
 #dropdownMenuButton{
     padding-right: 1em !important;
     padding-left: 1em !important;
@@ -187,9 +189,10 @@ ul li div a {
 
 .hero{
     width: 100%;
-    height: 80vh;
+    height: 77vh;
     overflow: hidden;
-    background-image: url("img/heroimage2.jpg");
+    background-image: url("img/hero_image.jpg");
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 40%;
@@ -205,7 +208,7 @@ ul li div a {
 .hero::after{
     content: "";
     width: 100%;
-    height: 80vh;
+    height: 77vh;
     position: absolute;
     z-index: 1;
     top: 0;
@@ -226,7 +229,7 @@ ul li div a {
     left: 50%;
     z-index: 2;
     animation: 0.3s hero_logo_animation forwards;
-    animation-delay: 3s;
+    animation-delay: 1s;
     transition: all 1s forwards;
 }
 
@@ -237,7 +240,7 @@ ul li div a {
     left: 50%;
     z-index: 2;
     animation: typing_animation 2s steps(18) forwards;
-    animation-delay: 4s;
+    animation-delay: 2s;
     overflow: hidden;
     white-space: nowrap;
     border-right: 4px solid white;
@@ -469,9 +472,9 @@ img{
 
 
 .laptop_card{
-    background-image: url(img/laptop_card);
+    background-image: url("img/banner-workplace-giving(2).jpg");
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
 }
 
@@ -479,7 +482,7 @@ img{
 
 
 
-.blog-card::after {
+.blog-card ::after {
     box-shadow: 0 5px 15px rgba(0,0,0,0.3);
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
@@ -591,8 +594,9 @@ hr.invisible_hr{
     position: absolute;
     z-index: 10;
     width: 100%;
-    height: 27rem;
-
+    height: 55%; 
+    overflow: hidden;
+    
 }
 
 .footer .box_right{
