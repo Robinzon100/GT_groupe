@@ -288,14 +288,14 @@
     <!-- /.blog-card -->
     
     <div class="blog-card spring-fever laptop_card" id="long_card_2">
-        <h1 class="m-3">Personal Systems</h1>
+        <h1 class="m-3">Personal Systems</h1> 
         <hr/>
         <h2 class="intro"> aliquip ex ea commodo.</h2>
        
         <!-- /.title-content -->
         <h5 class="card-info">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-        et magni vel.
+        GT Group offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements
+The company also provides equipping with small, medium and large capacity printing equipment as well as wide-format printing equipment for the organizations. GT Group is implementing the so called "Outsourcing" service for printing devices which means "payments in accordance with the printed page" ​
         </h5>
     </div>
     
@@ -407,7 +407,7 @@
 
 <div class="footer">
     <div id= "map"  class="box_left box">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.10357198262744!2d44.73220202045467!3d41.72791649090144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044730876a42bb9%3A0xe0587e0df87c9807!2sGT+Group!5e0!3m2!1sen!2sge!4v1530693249482" frameborder="0" style="border:0" allowfullscreen></iframe>    
+        <iframe class="iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.10357198262744!2d44.73220202045467!3d41.72791649090144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044730876a42bb9%3A0xe0587e0df87c9807!2sGT+Group!5e0!3m2!1sen!2sge!4v1530693249482" frameborder="0" style="border:0" allowfullscreen></iframe>    
     </div>
 
 

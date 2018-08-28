@@ -76,6 +76,15 @@ h5{
     font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
 }
 
+
+.server_text h2{
+    font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
+.server_text h4{
+    font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
+}
+
 .server_text {
     font-size: calc(14px + (23 - 14) * ((100vw - 300px) / (1900 - 700)))!important;
 }
@@ -133,5 +142,5 @@ main table{
 
 .contacts__info p {
     font-family: 'Roboto', sans-serif !important; 
-    font-size: calc(18px + (30 - 18) * ((100vw - 300px) / (1900 - 700)))!important;
+    font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
 }

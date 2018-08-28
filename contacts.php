@@ -15,8 +15,9 @@
     <link rel="stylesheet" href="style.css">    
     <link rel="stylesheet" href="grids/main_grid.css">
     <link rel="stylesheet" href="contacts.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/media_query.css">  
 
-      
     <script src="js/jquary.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -41,19 +42,17 @@
 
 
 
-<main>
-
-
+<main>  
     <div class="contacts">
-        <div class="contacts__map">
-            <iframe style = "width: 33.4%;height: 64%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.10357198262744!2d44.73220202045467!3d41.72791649090144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044730876a42bb9%3A0xe0587e0df87c9807!2sGT+Group!5e0!3m2!1sen!2sge!4v1530693249482" frameborder="0" style="border:0" allowfullscreen></iframe>    
+        <div class="contacts__map" width="100%" height="100%">
+            <iframe width="100%" height="100%" class="contacts__map_iframe"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.10357198262744!2d44.73220202045467!3d41.72791649090144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044730876a42bb9%3A0xe0587e0df87c9807!2sGT+Group!5e0!3m2!1sen!2sge!4v1530693249482" frameborder="0" style="border:0" allowfullscreen></iframe>    
         </div>
         
         <div class="contacts__info">
             <p>
-                <i>contact number : </i>  <b> +995 598 99 99 99 </b> <br>
-                <i>adress : </i>  <b> nutsubidzis 129 </b> <br>
-                <i>email :</i> <b>  info@gtgroupe.ge  </b><br>
+                <i><i class="fas fa-phone"></i>contact number  </i> :  <b> +995 598 99 99 99 </b> <br>
+                <i><i class="fas fa-at"></i>email </i> : <b>  info@gtgroupe.ge  </b><br>
+                <i><i class="fas fa-map-marker-alt"></i>adress  </i>  : <b> nutsubidzis 129 </b> <br>
             </p>
         </div>
     </div>

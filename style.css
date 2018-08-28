@@ -245,7 +245,6 @@ ul li div a {
     white-space: nowrap;
     width: 21ch;
     opacity: 0;
-    text-decoration: underline;
 }
 
 @keyframes typing_animation{
@@ -263,7 +262,6 @@ ul li div a {
         width:20ch; 
         opacity: 1; 
         border-right: none;
-        text-decoration: none;
     }
 
 }
@@ -513,8 +511,7 @@ hr.invisible_hr{
     transition: all 500ms;
     background: #9CECFB;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, rgba(0, 81, 212, 0.597), rgba(101, 198, 247, 0.515), rgba(156, 237, 251, 0.577)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-               
+    background: linear-gradient(to right, #002663f3, rgba(101, 198, 247, 0.515), #47d8f1e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 
@@ -610,7 +607,7 @@ hr.invisible_hr{
 }
 
 
-iframe{
+.iframe{
     position: absolute;
     z-index: 4;    
     width: 100%;
