@@ -152,9 +152,12 @@
     <div class="car_1" id="cards">
         <div class="card_container">
         <img src="img/icons/SVG/server.svg"  alt="">
-        <h5 class="text-center py-1"> <b> Server Infrastructure </b></h5>
-        <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+        <h5 class="text-center py-1"> <b> Data Infrastructure </b></h5>
+        <p class="text-center">Together with the world's top brands, GT Group
+                                The team of professionals is ready to have the willful complexity of the project
+                                To help you.
+                                Modern standards and past experience best
+                                To achieve the result!</p>
             </div>
         
     </div>
@@ -162,8 +165,11 @@
         <div class="card_container">
         <img src="img/icons/SVG/network.svg" style="margin-top: -1rem;"   alt="">
         <h5 class="text-center py-1"> <b> Network Accesories and Installation </b></h5>
-        <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+        <p class = "text-center">GT Group offers premium and future
+                                The decisions you make are your calm
+                                Staying in bed. From planning to introduction and to introduce
+                                Our team is ready to serve you, including full service
+                                For cooperation</p>
             </div>
         
     </div>
@@ -171,8 +177,10 @@
         <div class="card_container">
             <img src="img/icons/SVG/camera.svg"   alt="">
             <h5 class="text-center py-1"> <b> CCTV and Security </b></h5>
-            <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+            <p class = "text-center">GT Group offers the highest standards
+                                    Designed and executed security systems
+                                    (CCTV, fire and protective systems) that will be protected at 24/7
+                                    Threats.</p>
             </div>
             
         </div>
@@ -181,8 +189,10 @@
             <div class="card_container">
             <img src="img/icons/SVG/pc.svg"  alt="">
             <h5 class="text-center py-1"> <b> Pc and Workstation </b></h5>
-            <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                 Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+            <p class = "text-center">Personalized systems and workstations for you
+                                    Customized solutions to our team
+                                    We will offer you according to the requirements.
+                                    Full portfolios for all types of organizations.</p>
                 </div>
             
         </div>
@@ -193,8 +203,10 @@
             <div class="card_container">
                 <img src="img/icons/SVG/printer.svg"  alt="">
                 <h5 class="text-center py-1"> <b> Printing Equipment </b></h5>
-                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                <p class = "text-center">Full range of small and large format printing machines.
+                                        All of the leading brands of the leading brand and their consumption
+                                        materials. Also warranty and postgraduate service
+                                        Service.</p>
                 </div>
                 
             </div>
@@ -202,8 +214,9 @@
             <div class="card_container">
             <img src="img/icons/SVG/live_chat.svg"  alt="">
             <h5 class="text-center py-1"> <b> Video Telepresence and Voice </b></h5>
-                <p class = "text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Cumque omnis quisquam fugiat, facilis a perferendis?</p>
+                <p class = "text-center">IP telephony, video and Voice conference solutions
+                                        The introduction and / or development of which is necessary for you
+                                        Uninterrupted connection to business without borders.</p>
                 </div>
             
         </div>

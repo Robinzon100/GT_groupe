@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^main?$ /services_server_page.php [L]

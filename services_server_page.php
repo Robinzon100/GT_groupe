@@ -35,6 +35,13 @@
 <body>
     
 
+<style>
+.footer{
+    height: 12% !important;
+    overflow: hidden;
+}
+
+</style>
 
 <?php
     include("includes/header_nav.php");

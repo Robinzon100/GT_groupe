@@ -31,6 +31,13 @@
 
 </head>
 <style>
+
+
+    .footer {
+        height: 24% !important;
+    }
+
+
     .main_img{
         width:100%;
         height:auto;
