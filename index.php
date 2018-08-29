@@ -72,7 +72,6 @@
                             <a href="about.php">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="vendors.php">Clients</a>
                             <a class="dropdown-item" href="GT_solution.php">GT Solution</a>
                             <a class="dropdown-item" href="staff.php">Staff</a>
                             <a class="dropdown-item" href="about.php">About us</a>
@@ -153,11 +152,7 @@
         <div class="card_container">
         <img src="img/icons/SVG/server.svg"  alt="">
         <h5 class="text-center py-1"> <b> Data Infrastructure </b></h5>
-        <p class="text-center">Together with the world's top brands, GT Group
-                                The team of professionals is ready to have the willful complexity of the project
-                                To help you.
-                                Modern standards and past experience best
-                                To achieve the result!</p>
+        <p class="text-center">Together with the world's leading brands, the GT Group of Professionals is ready to help you with any difficulty in implementing the project. Modern standards and past experience to achieve the best result!</p>
             </div>
         
     </div>
@@ -165,11 +160,7 @@
         <div class="card_container">
         <img src="img/icons/SVG/network.svg" style="margin-top: -1rem;"   alt="">
         <h5 class="text-center py-1"> <b> Network Accesories and Installation </b></h5>
-        <p class = "text-center">GT Group offers premium and future
-                                The decisions you make are your calm
-                                Staying in bed. From planning to introduction and to introduce
-                                Our team is ready to serve you, including full service
-                                For cooperation</p>
+        <p class = "text-center">GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing</p>
             </div>
         
     </div>
@@ -177,10 +168,7 @@
         <div class="card_container">
             <img src="img/icons/SVG/camera.svg"   alt="">
             <h5 class="text-center py-1"> <b> CCTV and Security </b></h5>
-            <p class = "text-center">GT Group offers the highest standards
-                                    Designed and executed security systems
-                                    (CCTV, fire and protective systems) that will be protected at 24/7
-                                    Threats.</p>
+            <p class = "text-center">The GT Group offers the design and execution of security systems (CCTV, Fire and Security systems) that are protected by the highest standards from 24/7.</p>
             </div>
             
         </div>
@@ -189,10 +177,7 @@
             <div class="card_container">
             <img src="img/icons/SVG/pc.svg"  alt="">
             <h5 class="text-center py-1"> <b> Pc and Workstation </b></h5>
-            <p class = "text-center">Personalized systems and workstations for you
-                                    Customized solutions to our team
-                                    We will offer you according to the requirements.
-                                    Full portfolios for all types of organizations.</p>
+            <p class = "text-center">Personalized systems and workstations are tailored to you based on the requirements of our team. Full portfolios for all types of organizations.</p>
                 </div>
             
         </div>
@@ -203,10 +188,7 @@
             <div class="card_container">
                 <img src="img/icons/SVG/printer.svg"  alt="">
                 <h5 class="text-center py-1"> <b> Printing Equipment </b></h5>
-                <p class = "text-center">Full range of small and large format printing machines.
-                                        All of the leading brands of the leading brand and their consumption
-                                        materials. Also warranty and postgraduate service
-                                        Service.</p>
+                <p class = "text-center">Full range of small and large format printing machines. All the leading brands of the brand newest divisions and their consumables. Also guarantee and post-service service.</p>
                 </div>
                 
             </div>
@@ -214,9 +196,7 @@
             <div class="card_container">
             <img src="img/icons/SVG/live_chat.svg"  alt="">
             <h5 class="text-center py-1"> <b> Video Telepresence and Voice </b></h5>
-                <p class = "text-center">IP telephony, video and Voice conference solutions
-                                        The introduction and / or development of which is necessary for you
-                                        Uninterrupted connection to business without borders.</p>
+                <p class = "text-center">IP telephony, video and voi conferencing solutions to the implementation and / or development of which are essential for uninterrupted connections to your business.</p>
                 </div>
             
         </div>
@@ -279,8 +259,7 @@
        
         <!-- /.title-content -->
         <h5  class="card-info ">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-        et magni vel.
+        GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing
         </h5>
     </div>
 
@@ -427,9 +406,9 @@ The company also provides equipping with small, medium and large capacity printi
     <div class="box_right box ">
         <div class="contact_container text-white display-3">
             <p>
-                <i>contact number : </i>  <b> +995 598 99 99 99 </b> <br>
-                <i>adress : </i>  <b> nutsubidzis 129 </b> <br>
-                <i>email :</i> <b>  info@gtgroupe.ge  </b><br>
+                <i>Contact Number : </i>  <b> +995 514 44 46 46 </b> <br>
+                <i>Address : </i>  <b> 129 Nutsubidze St.</b> <br>
+                <i>E-mail :</i> <b>  info@gtgroupe.ge  </b><br>
             </p>
 
 

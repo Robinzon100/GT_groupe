@@ -50,15 +50,16 @@
         
         <div class="contacts__info">
             <p>
-                <i><i class="fas fa-phone"></i>contact number  </i> :  <b> +995 598 99 99 99 </b> <br>
-                <i><i class="fas fa-at"></i>email </i> : <b>  info@gtgroupe.ge  </b><br>
-                <i><i class="fas fa-map-marker-alt"></i>adress  </i>  : <b> nutsubidzis 129 </b> <br>
+                <i class="text-primary" ><i class="fas fa-phone"></i>Contact Number </i> :  <b> +995 514 44 46 46 </b> <br>
+                <i class="text-primary" ><i class="fas fa-at"></i>E-mail </i> : <b>  info@gtgroupe.ge </b><br>
+                <i class="text-primary" ><i class="fas fa-map-marker-alt"></i>Adress </i> : <b> 129 Nutsubidze St. </b> <br>
             </p>
         </div>
     </div>
 
 
 </main>
+
 
 
 

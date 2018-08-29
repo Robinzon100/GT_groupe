@@ -11,11 +11,12 @@
 
         <div class="box_right box ">
             <div class="contact_container text-white display-3">
-                <p>
-                    <i>contact number : </i>  <b> +995 598 99 99 99 </b> <br>
-                    <i>adress : </i>  <b> nutsubidzis 129 </b> <br>
-                    <i>email :</i> <b>  info@gtgroupe.ge  </b><br>
-                </p>
+            <p>
+                <i>Contact Number : </i>  <b> +995 514 44 46 46 </b> <br>
+                <i>Address : </i>  <b> 129 Nutsubidze St.</b> <br>
+                <i>E-mail :</i> <b>  info@gtgroupe.ge  </b><br>
+            </p>
+
 
 
             </div>
