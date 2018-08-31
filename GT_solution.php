@@ -70,7 +70,7 @@ include("includes/header_nav.php");
             <td> <a href="https://www.vmware.com/solutions/virtualization.html"> Vmware </a> </td>
             <td> <a href="https://www.vmware.com/products/software-defined-storage.html"> VSAN </a> </td>
             <td> <a href="https://www.veritas.com/solution/data-protection"> Veritas </a> </td>
-            <td> <a href="https://www.splunk.com/en_us/software/enterprise-security.html"> Splunk </a> </td>
+            <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
             <td> <a href="https://www.paessler.com/prtg"> PRTG </a> </td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@ include("includes/header_nav.php");
             <td> <a href="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"> Microsoft </a> </td>
             <td> <a href="https://sds.microsoft.com/"> Microsoft </a> </td>
             <td> <a href="https://www.vema-gmbh.de/data-protection.html"> Veam </a> </td>
-            <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
+            <td> <a href="https://www.ibm.com/us-en/marketplace/ibm-qradar-log-manager"> IBM </a> </td>
             <td> <a href="https://www.zabbix.com/"> Zabbix </a> </td>
         </tr>
 
@@ -91,7 +91,6 @@ include("includes/header_nav.php");
             <td> </td>
             <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> DELL </a> </td>
             <td> <a href="https://www.hpe.com/emea_europe/en/storage/data-protection-solutions.html"> HPE </a> </td>
-            <td> <a href="https://www.ibm.com/us-en/marketplace/ibm-qradar-log-manager"> IBM </a> </td>
             <td>   </td>
         </tr>
         <tr>
@@ -173,24 +172,21 @@ include("includes/header_nav.php");
         <tr>
         <th scope="row"></th>
             <td> <a href="https://www.arubanetworks.com/"> Aruba </a> </td>
-            <td> <a href="https://www.checkpoint.com/products-solutions/next-generation-firewalls/"> Checkpoint </a> </td>
+            <td> <a href="https://www.cisco.com/c/en/us/products/security/firewalls/index.html"> Cisco </a> </td>
             <td> <a href="https://f5.com/glossary/web-application-firewall"> F5 </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
             <td> <a href="https://www.cisco.com/c/en/us/products/wireless/product-listing.html"> cisco </a> </td>
-            <td> <a href="https://www.cisco.com/c/en/us/products/security/firewalls/index.html"> Cisco </a> </td>
+            <td> <a href="https://www.fortinet.com/"> Fortinet </a> </td>
             <td> <a href="https://www.fortinet.com/products/web-application-firewall/fortiweb.html"> FortiWeb </a> </td>
         </tr>
         <tr>
         <th scope="row"></th>
             <td> <a href="https://www.ruckuswireless.com/"> Ruckus </a> </td>
-            <td> <a href="https://www.fortinet.com/"> Fortinet </a> </td>
-        </tr>
-        <th scope="row"></th>
-            <td> <a href="">  </a> </td>
             <td> <a href="http://www.firewall.cx/networking-topics/firewalls/palo-alto-firewalls.html"> Palo Alto </a> </td>
         </tr>
+
     </tbody>
     </table>
 

@@ -144,7 +144,7 @@
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top p-5" src="img/partners img/Splunk.png" style="margin-top:2.2rem" alt=""></a> 
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/honeywell.png" style="margin-top:1.5rem" alt=""></a> 
                     <h2 style = "color:#FFD700" ></h2>
                 </div>
             </li>

@@ -61,7 +61,7 @@
 
 
 <div class="staff__container">
-    <img class="staff__graff" src="img/staff.png" alt="">
+    <img class="staff__graff" src="img/staff1.png" alt="">
 </div>
 
 

@@ -39,8 +39,8 @@
 
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="">ABOUT</a>
+                        <div class="px-2 py-4">
+                            <a href="#">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="../GT_solution.php">GT Solution</a>
@@ -52,7 +52,7 @@
 
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <div class="px-2 py-4">
                             <a href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;"  aria-labelledby="dropdownMenuButton">
@@ -68,7 +68,12 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                         <div class="px-2 py-4"  id="dropdownMenuButton">
-                            <a href="../partners.php">PARTNERS</a>
+                            <a href="#">PARTNERS</a>
+                        </div>
+                        <div class="dropdown-menu" style = "top:92% !important;"  aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="../partners.php">Our partners</a>
+                            <a class="dropdown-item" href="../vendors.php">Vendors</a>
+                            <a class="dropdown-item" href="../clients.php">Clients</a>
                         </div>
                     </div>
                 </li>

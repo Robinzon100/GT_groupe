@@ -28,7 +28,7 @@
             <td> <a href="https://www.vmware.com/solutions/virtualization.html"> Vmware </a> </td>
             <td> <a href="https://www.vmware.com/products/software-defined-storage.html"> VSAN </a> </td>
             <td> <a href="https://www.veritas.com/solution/data-protection"> Veritas </a> </td>
-            <td> <a href="https://www.splunk.com/en_us/software/enterprise-security.html"> Splunk </a> </td>
+            <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
             <td> <a href="https://www.paessler.com/prtg"> PRTG </a> </td>
         </tr>
         <tr class = "bg-white" >
@@ -38,7 +38,7 @@
             <td> <a href="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"> Microsoft </a> </td>
             <td> <a href="https://sds.microsoft.com/"> Microsoft </a> </td>
             <td> <a href="https://www.vema-gmbh.de/data-protection.html"> Veam </a> </td>
-            <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
+            <td> <a href="https://www.ibm.com/us-en/marketplace/ibm-qradar-log-manager"> IBM </a> </td>
             <td> <a href="https://www.zabbix.com/"> Zabbix </a> </td>
         </tr>
 
@@ -49,7 +49,6 @@
             <td> </td>
             <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> DELL </a> </td>
             <td> <a href="https://www.hpe.com/emea_europe/en/storage/data-protection-solutions.html"> HPE </a> </td>
-            <td> <a href="https://www.ibm.com/us-en/marketplace/ibm-qradar-log-manager"> IBM </a> </td>
             <td>   </td>
         </tr>
         <tr class = "bg-white" >

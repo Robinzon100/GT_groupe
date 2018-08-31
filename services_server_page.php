@@ -36,10 +36,10 @@
     
 
 <style>
-.footer{
-    height: 12% !important;
-    overflow: hidden;
-}
+    .footer{
+        height: 12% !important;
+        overflow: hidden;
+    }
 
 </style>
 

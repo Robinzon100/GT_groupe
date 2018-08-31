@@ -7,6 +7,7 @@
 
     <title>GT Groupe</title>
     <link rel="shortcut icon" type="image/svg" href="../img/icons/logo2.svg">
+    <link rel="icon" href="/img/icons/logo1.ico" type="image/ico">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
@@ -58,18 +59,18 @@
             <ul class="navbar-nav ">
                 <li class="nav-item text-center nav-link ">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <div class="px-2 py-4" >
                             <a href="/index.php">HOME</a>
                         </div>
                         <div class="nav-item"  >
-
+                            
                         </div>
                     </div>
                 </li>
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="about.php">ABOUT</a>
+                        <div class="px-2 py-4">
+                            <a href="#">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="GT_solution.php">GT Solution</a>
@@ -80,8 +81,8 @@
                 </li>
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <a href="CARDS">SERVICES</a>
+                        <div class="px-2 py-4">
+                            <a href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="services_server_page.php">Servers and Data Storage Systems​</a>
@@ -92,11 +93,16 @@
                         </div>
                     </div>
                 </li>
-
+ 
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4"  id="dropdownMenuButton">
-                            <a href="../partners.php">PARTNERS</a>
+                    <div class="px-2 py-4">
+                            <a href="#">PARTNERS</a>
+                        </div>
+                        <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="partners.php">Our partners</a>
+                            <a class="dropdown-item" href="vendors.php">Vendors</a>
+                            <a class="dropdown-item" href="clients.php">Clients</a>
                         </div>
                     </div>
                 </li>
@@ -381,7 +387,7 @@ The company also provides equipping with small, medium and large capacity printi
 
 
         
-    </div>
+</div>
     <a class="carousel-control-prev" href="#carouselId" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>

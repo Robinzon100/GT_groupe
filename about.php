@@ -45,7 +45,7 @@
 
 <div class="main_text server_text fixed-bottom" >
     <h3>
-    <b> GT Group  </b>is the systematic integrator in the information and communication sphere founded on the basis of 15 year experience. ​
+    <b> GT Group  </b>is the system integrator in the information and communication sphere founded on the basis of 15 year experience. ​
 
 Since the moment of its foundation to these days the company managed to become a partner and provider in Georgia of more than 20 world huge IT companies. ​
 
