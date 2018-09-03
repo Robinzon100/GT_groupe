@@ -58,7 +58,7 @@
             </div>
 
 
-            <h1 class = "server_title_title">Servers and Data Storage Systems​</h1>
+            <h1 class = "server_title_title">Servers and Storage Infrastructure</h1>
     </div>
 
 
