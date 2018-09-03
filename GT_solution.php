@@ -156,7 +156,7 @@ include("includes/header_nav.php");
 
 
 
-    <table class="table table-hover my-5">
+<table class="table table-hover my-5">
     <thead>
         <tr>
             <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table" >Primary Solution</th>
