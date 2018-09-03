@@ -97,13 +97,13 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                     <div class="px-2 py-4">
-                            <a href="#">PARTNERS</a>
+                            <a href="partners.php">PARTNERS</a>
                         </div>
-                        <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
+                        <!-- <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="partners.php">Our partners</a>
                             <a class="dropdown-item" href="vendors.php">Vendors</a>
-                            <a class="dropdown-item" href="clients.php">Clients</a>
-                        </div>
+                            <a class="dropdown-item" href="clients.php">Clients</a> 
+                        </div> -->
                     </div>
                 </li>
 
