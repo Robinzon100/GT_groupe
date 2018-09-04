@@ -20,14 +20,20 @@ cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
                 nav bar
 /*=============================================*/
  
-
+.nav_anim{
+    background-color: white ;
+    color: white;
+    border-bottom: solid #11669f 2px;
+    padding: 0.5rem 3.5rem !important;
+}
 
 nav{
-    background-color: #080e20 !important;
-    border-bottom: solid #11669f 2px;
+    background-color: #004a69a4;
+    border-bottom: solid #ffffff 1px;
     height: 3.5em !important;
     margin-bottom: 80% !important;
     box-shadow: 0 3px 4px #0006;
+    transition:all 0.2s;
 }
 
 nav .navbar-brand img{
@@ -44,6 +50,7 @@ div ul li a {
     padding: 0% 3%;
     position: relative;
     display: block;
+    transition:all 0.2s;
 }
 
 div ul li a::before {
@@ -102,7 +109,7 @@ a:focus::before {
         width: 35px;
         height: 3px;
         box-shadow: 3px 3px 0px black;
-        background-color: rgb(255, 255, 255);
+        background-color: #11669f;
         margin: 7px 0;
         transition: 0.4s;
     }
@@ -110,7 +117,7 @@ a:focus::before {
         width: 27px;
         height: 3px;
         box-shadow: 3px 3px 0px black;
-        background-color: rgb(255, 255, 255);
+        background-color: #11669f;
         margin: 7px 0px 0px 8px;
         transition: 0.4s;
     }
@@ -127,9 +134,7 @@ a:focus::before {
         height: 3px;
         transform: rotate(45deg) translate(-8px, -6px);
     }
-    nav {
-        background-color: #0e1935;
-    }
+
 
  
 }
@@ -139,7 +144,7 @@ a:focus::before {
 /*=============================================*/
 
 ul li div a {
-    color: white !important;
+    color: #11669f ;
     text-decoration: none !important;
 }
 
@@ -154,13 +159,11 @@ ul li div a {
 
  
 @keyframes dropdown_animation{
-    0%{
-        
+    0%{     
         opacity: 0;
     }
     
-    100%{
-         
+    100%{  
         opacity: 1;
     }
 }

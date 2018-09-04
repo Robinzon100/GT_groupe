@@ -156,10 +156,17 @@
             </li>
             <li> 
                 <div class="card">
-                    <a href=""><img class = "card-img-top p-5" src="img/partners img/HP.svg" style="margin-top: -4.9rem;padding: 5rem !important;" alt=""></a> 
+                    <a href=""><img class = "card-img-top p-5" src="img/partners img/HP.png" style="width: 11.1rem;"  alt=""></a> 
                     <h2 style = "color:#FFD700" ></h2>
                 </div>
             </li>
+            <li> 
+                <div class="card">
+                    <a href=""><img class = "card-img-top p-5" src="/img/partners img/symantec.png" style="margin-top:2.6rem" alt=""></a> 
+                    <h2 style = "color:#FFD700" ></h2>
+                </div>
+            </li>
+
 
         </ul>
 

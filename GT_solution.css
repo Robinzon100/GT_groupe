@@ -1,6 +1,7 @@
 .main_container{
     margin:0 auto;
     margin-top: 10em;
+    max-width: 90rem;
 }
 
 table{

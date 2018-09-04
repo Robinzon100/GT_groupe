@@ -30,6 +30,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <style>
+
+    body{
+        background-image: url("/img/background-1.svg");
+        background-repeat:no-repeat;
+        background-size:cover;
+    }
+
     .staff__graff{
         margin: 10rem auto  0 0rem;
         width:100%;
@@ -61,7 +68,7 @@
 
 
 <div class="staff__container">
-    <img class="staff__graff" src="img/staff-main.png" alt="">
+    <img class="staff__graff" src="img/staff1.png" alt="">
 </div>
 
 

@@ -18,12 +18,12 @@
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet"> 
 
-    <script src="js/jquary.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="/js.1/jquary_source.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="src/collapse.js"></script>
+    <script src="js/jquary.js"></script>
 
     
     
@@ -37,7 +37,7 @@
 <div id="particles-js"></div>
 
 
-    <nav class="navbar fixed-top navbar-expand-md navbar-light ">
+    <nav class="navbar fixed-top navbar-expand-md " >
         <a class="navbar-brand" style="margin-left: 2em; margin-right: -2em; " href="#">
             <img src="img/icons/logo.png" alt="logo">
         </a>
@@ -59,8 +59,8 @@
             <ul class="navbar-nav ">
                 <li class="nav-item text-center nav-link ">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4" >
-                            <a href="/index.php">HOME</a>
+                        <div class="px-2 py-4 " >
+                            <a class="nav-words text-white" href="/index.php">HOME</a>
                         </div>
                         <div class="nav-item"  >
                             
@@ -69,20 +69,19 @@
                 </li>
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4">
-                            <a href="#">ABOUT</a>
+                        <div class="px-2 py-4 ">
+                            <a class="nav-words text-white" href="#">ABOUT</a>
                         </div>
                         <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="GT_solution.php">GT Solution</a>
-                            <a class="dropdown-item" href="staff.php">Staff</a>
                             <a class="dropdown-item" href="about.php">About us</a>
                         </div>
                     </div>
                 </li>
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                        <div class="px-2 py-4">
-                            <a href="#">SERVICES</a>
+                        <div class="px-2 py-4 ">
+                            <a class="nav-words text-white" href="#">SERVICES</a>
                         </div>
                         <div class="dropdown-menu"  style = "top:92% !important; z-index : 11000 !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="services_server_page.php">Servers and Storage Infrastructure</a>
@@ -96,8 +95,8 @@
  
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                    <div class="px-2 py-4">
-                            <a href="partners.php">PARTNERS</a>
+                    <div class="px-2 py-4 ">
+                            <a class="nav-words text-white" href="partners.php">PARTNERS</a>
                         </div>
                         <!-- <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="partners.php">Our partners</a>
@@ -109,8 +108,8 @@
 
               <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                    <div class="px-2 py-4"  id="dropdownMenuButton" >
-                            <a href="../contacts.php">CONTACTS</a>
+                    <div class="px-2 py-4 "  id="dropdownMenuButton" >
+                            <a class="nav-words text-white" href="../contacts.php">CONTACTS</a>
                         </div>
                     </div>
                 </li>
