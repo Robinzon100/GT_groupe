@@ -18,7 +18,7 @@
 .server_title img{
     position: relative;
     left: 50%;
-    top: 116%;
+    top: 50%;
     transform: translate(-50%,-50%);
     margin-top: -49%;
     width: 100%;
@@ -26,6 +26,19 @@
     margin-bottom: -15%;
 }
 
+@media (min-width : 230px)  and (max-width: 768px) {
+    .server_title img{
+        position: relative;
+        left: 50% !important;
+        top: 50% !important;
+        top: -9% !important;
+        margin-top: 0;
+        transform: translate(-50%,-62%);
+    }
+
+ 
+
+}
 
 .img_cicle{
     position: relative;
@@ -107,10 +120,6 @@
 
 
 
-.server_title:hover .img_cicle{
-    width: 25%;
-    padding-top:22%;
-}
 
 
 @media (min-width : 768px)  and (max-width: 1190px){

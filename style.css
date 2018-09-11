@@ -27,8 +27,12 @@ cursor: url("img/cursor_img/X3_arrow.gif"), pointer !important; */
     padding: 0.5rem 3.5rem !important;
 }
 
+.nav_anim_2{
+    background-color: #288db9 !important;
+}
+
 nav{
-    background-color: #004a69a4;
+    background-color: #288db9cb;
     border-bottom: solid #ffffff 1px;
     height: 3.5em !important;
     margin-bottom: 80% !important;
@@ -304,9 +308,7 @@ ul li div a {
     opacity: 1;
 }
 
-.card_main_container{
-    /* padding-top: 57em; */
-}
+
 
  
 

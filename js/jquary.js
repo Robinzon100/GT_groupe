@@ -4,6 +4,12 @@ function myFunction(x) {
     x.classList.toggle("change");
 }
 
+var collapseBtn = document.querySelector('.dropdown_icon');
+
+collapseBtn.addEventListener('click', function(){
+      var nav = document.querySelector('nav');
+      nav.classList.toggle('nav_anim_2');
+});
 
  
  
@@ -19,6 +25,7 @@ $(document).ready(function(){
             
       }else{            
             $(".navbar").removeClass("nav_anim");
+            $(".navbar").removeClass("nav_anim_2");
             $(".nav-words").addClass("text-white");
       }    
 });

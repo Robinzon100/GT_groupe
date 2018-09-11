@@ -1,5 +1,5 @@
 .main_container{
-    margin:0 auto;
+    margin:0 auto !important;
     margin-top: 10em;
     max-width: 90rem;
 }
@@ -12,8 +12,8 @@ table{
 thead tr .display-4{
     background-color: #132149;
     color: white;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 thead tr .network-table{

@@ -214,9 +214,9 @@
 
     .collapse.show {
         display: block;
-        background-color: #080e20;
+        background-color: #288db9;
         transition: 0.5s;
-        margin-top: -2%;
+        margin-top: 0%;
         padding-right: 100%;
         padding-left: 100%;
         width: 100%;
