@@ -216,6 +216,13 @@ ul li div a {
     user-select: none;
 }
 
+#canvas{
+    height:120vh;
+    position:relative;
+    top:0;
+    left:0;
+    z-index:10;
+}
 
 .hero::after{
     content: "";

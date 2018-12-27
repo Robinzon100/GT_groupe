@@ -127,7 +127,7 @@
 
  
 <section class="hero">
-    <canvas id="canvas" height = "77vh" width = "100vw"></canvas>
+    <canvas id="canvas" height = "180vh"></canvas>
     <div class="hero__img-container">
         <img class = "hero__img" src="img/heroimage.jpg" alt="" srcset="">
     </div>

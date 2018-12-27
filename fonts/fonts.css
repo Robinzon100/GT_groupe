@@ -53,7 +53,8 @@ h5{
 } 
 
 .hero__title{
-    font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important;
+    /* font-size: calc(24px + (90 - 24) * ((100vw - 300px) / (1900 - 700)))!important; */
+    font-size:calc(45px + (90 - 45) * ((100vw - 300px) / (1900 - 700))) !important;
     /* font-family: 'Roboto', cursive; */
     font-family: 'christmass_font', 'Roboto', cursive;
     font-weight: normal;
