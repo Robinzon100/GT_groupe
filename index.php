@@ -127,12 +127,13 @@
 
  
 <section class="hero">
+    <canvas id="canvas" height = "77vh" width = "100vw"></canvas>
     <div class="hero__img-container">
         <img class = "hero__img" src="img/heroimage.jpg" alt="" srcset="">
     </div>
 
 
-    <img class = "hero__logo" src="img/icons/logo2.svg" alt="" style="width:15%;">
+    <img class = "hero__logo" src="img/icons/cristmas-logo2.svg" alt="" style="width:18%;">
 
 
     <h1 class="display-3 text-center hero__title">Intelligent solutions</h1>
@@ -287,7 +288,7 @@
     <div class="blog-card spring-fever laptop_card" id="long_card_2">
         <h1 class="m-3">Personal Systems</h1> 
         <hr/>
-        <h2 class="intro"> aliquip ex ea commodo.</h2>
+        <h2 class="intro"> The Best Products</h2>
        
         <!-- /.title-content -->
         <h5 class="card-info">
@@ -437,6 +438,7 @@ The company also provides equipping with small, medium and large capacity printi
 <script src="js/jquary.js"></script>
 <script src="js.1/particles.js"></script>
 <script src="js/particles.js"></script>
+<script src="js/snow.js"></script>
 
 
 </body>

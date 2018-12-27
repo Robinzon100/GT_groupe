@@ -249,13 +249,15 @@ ul li div a {
     transform: translate(-50%,-50%);
     position: absolute;
     top: 60%;
-    left: 50%;
+    /* left: 50%; */
     z-index: 2;
     animation: typing_animation 2s steps(18) forwards;
     animation-delay: 3.3s;
     overflow: hidden;
     white-space: nowrap;
-    width: 21ch;
+    /* width: 21ch; */
+    left:51%;
+    /* width:21ch; */
     opacity: 0;
 }
 
@@ -271,7 +273,7 @@ ul li div a {
     }
     
     100%{
-        width:20ch; 
+        width:28ch; 
         opacity: 1; 
         border-right: none;
     }
