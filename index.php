@@ -97,13 +97,12 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                     <div class="px-2 py-4 ">
-                            <a class="nav-words text-white" href="partners.php">PARTNERS</a>
+                            <a class="nav-words text-white" href="#">PARTNERS</a>
                         </div>
-                        <!-- <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="partners.php">Our partners</a>
+                        <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="vendors.php">Vendors</a>
                             <a class="dropdown-item" href="clients.php">Clients</a> 
-                        </div> -->
+                        </div>
                     </div>
                 </li>
 
@@ -435,7 +434,7 @@ The company also provides equipping with small, medium and large capacity printi
 
 
 
- <script src="js/jquary.js"></script>
+<script src="js/jquary.js"></script>
 <script src="js.1/particles.js"></script>
 <script src="js/particles.js"></script>
 

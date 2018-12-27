@@ -1,7 +1,13 @@
+.solution_hero_image{
+    margin-top: 4rem;
+    width: 80%;
+}
+
+
 .main_container{
     margin:0 auto !important;
     margin-top: 10em;
-    max-width: 90rem;
+    max-width: 80rem;
 }
 
 table{

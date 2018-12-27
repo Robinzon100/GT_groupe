@@ -51,11 +51,13 @@
 
 include("includes/header_nav.php");
 
-?>
-
+?> 
+<div class="solution_hero_image_container text-center">
+    <img class="solution_hero_image " src="img/solution_hero_imgage.svg" alt="">
+</div>
 
 <main class = "main_container">
-    <h1 style="margin-top:10rem !important;" class="display-3 font-weight-bold text-center m-5 serv-title">Data Infrastructure</h1>
+    <h1 style="margin-top:6rem !important;" class="display-3 font-weight-bold text-center m-5 serv-title">Data Infrastructure</h1>
 
 <div style="overflow-x:auto;" >
     <table class="table table-hover">
@@ -242,5 +244,6 @@ include("includes/header_nav.php");
 include("includes/footer.php");
 
 ?>
+
 </body>
 </html>

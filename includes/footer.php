@@ -31,4 +31,6 @@
             </div> 
     </div>
 
+<script src="js/jquary.js"></script>
+
  

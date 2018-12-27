@@ -144,3 +144,10 @@ main table{
     font-family: 'Roboto', sans-serif !important; 
     font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1900 - 700)))!important;
 }
+
+
+
+.client_main_title{
+    font-family: 'Roboto', sans-serif !important; 
+    font-size: calc(20px + (70 - 20) * ((100vw - 300px) / (1900 - 700)))!important;
+}
