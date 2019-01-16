@@ -68,7 +68,7 @@
 
 
 
-    <div class="main_text server_text fixed-bottom" onclick="form_anim(this)">
+    <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2">
         <h3><b> GT Group </b> is ready to offer you full telephone systems, introduction and updating of the telecommunications system.​
 
 Our Technical Group will study your needs, requirements, and will build a full communication network in your business with the use of the latest technologies and experiences.​
@@ -93,16 +93,10 @@ IP, Voip Telephony and Video Connection Systems, i.e. Internet Telephony and Vid
 
 </div>
 
-
-
-
-
-
-
-
-
-
 </body>
+
+<script src="./js/paralax.js"></script>
+
 </html>
 
 

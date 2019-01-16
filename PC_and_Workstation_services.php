@@ -69,7 +69,7 @@
 
 
 
-    <div class="main_text server_text fixed-bottom"  onclick="form_anim(this)">
+    <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2">
         <h3  style="margin-bottom:4rem;">
          <b> GT Group</b> offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements
          <br>
@@ -172,15 +172,10 @@
 </div>
 
 
-
-
-
-
-
-
-
-
 </body>
+
+<script src="./js/paralax.js"></script>
+
 </html>
 
 

@@ -216,13 +216,6 @@ ul li div a {
     user-select: none;
 }
 
-#canvas{
-    height:120vh;
-    position:relative;
-    top:0;
-    left:0;
-    z-index:10;
-}
 
 .hero::after{
     content: "";
@@ -242,6 +235,7 @@ ul li div a {
 }
 
 .hero__logo{
+    width:15%;
     transform: translate(-50%,-50%);
     position: absolute;
     top: 43%;
@@ -252,19 +246,23 @@ ul li div a {
     transition: all 1s forwards;
 }
 
+@media (min-width : 230px)  and (max-width: 768px) {
+    .hero__logo{
+        width: 25%;
+    }
+}
+
 .hero__title{
     transform: translate(-50%,-50%);
     position: absolute;
     top: 60%;
-    /* left: 50%; */
+    left: 50%;
     z-index: 2;
     animation: typing_animation 2s steps(18) forwards;
     animation-delay: 3.3s;
     overflow: hidden;
     white-space: nowrap;
-    /* width: 21ch; */
-    left:51%;
-    /* width:21ch; */
+    width: 21ch;
     opacity: 0;
 }
 
@@ -280,7 +278,7 @@ ul li div a {
     }
     
     100%{
-        width:28ch; 
+        width:20ch; 
         opacity: 1; 
         border-right: none;
     }

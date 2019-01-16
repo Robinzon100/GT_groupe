@@ -75,7 +75,7 @@
 
 
 
-    <div class="main_text server_text fixed-bottom" onclick="form_anim(this)">
+    <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2">
         <h3> <b> GT Group </b> also offers a complete solution for security systems, CCTV and fire fighting systems.​
 
 Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​
@@ -89,6 +89,8 @@ Our company works in many directions in the field of security. They are as follo
     <?php
     include("includes/footer.php");
 ?>
+
+<script src="./js/paralax.js"></script>
 
 
 </div>

@@ -58,7 +58,7 @@
 
 
 <div class="main_container text-center">
-    <img class="client_hero_image text-center" style="width: 60%;margin-top: 5rem;" src="img/undraw_business_deal_cpi9.svg" alt="">
+    <img class="client_hero_image text-center" style="width: 50%;margin-top: 5rem;" src="img/undraw_business_deal_cpi9.svg" alt="">
 
 
     <h1 class="client_main_title text-center" >Commercial and Non-governmental Organizations</h1>
@@ -222,11 +222,6 @@
             </li>
             <li>
                 <div class="card">
-                    <a href="#"><img src="img/clients_img/nonegoverment/sairme.jpg" alt=""></a>
-                </div>
-            </li>
-            <li>
-                <div class="card">
                     <a href="#"><img src="img/clients_img/nonegoverment/sakrusenergo.jpg" alt=""></a>
                 </div>
             </li>
@@ -314,11 +309,6 @@
         <li> 
             <div class="card">
                 <a href="#"><img src="img/clients_img/goverment/erovnuli_biblioteka.jpg" alt=""> </a>
-            </div>
-        </li>
-        <li> 
-            <div class="card">
-                <a href="#"><img src="img/clients_img/goverment/finansta_saministro.jpg" alt=""> </a>
             </div>
         </li>
         <li> 

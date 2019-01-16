@@ -71,7 +71,7 @@
 
 
 
-    <div class="main_text server_text fixed-bottom"  onclick="form_anim(this)">
+    <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2">
         <h3  style="margin-bottom:4rem;">
         GT Group offers consulting and auditing services that will help you in correct planning  of IT infrastructure and its dynamic development so that IT infrastructure would not be an obstacle for timely realization of business goals and objectives.​
 
@@ -114,7 +114,7 @@ Our team is ready to help you evaluate and analyze the state of your present IT 
         </tr>
 </table>
   
-    </div>
+</div>
 
 
 
@@ -132,14 +132,10 @@ Our team is ready to help you evaluate and analyze the state of your present IT 
 
 
 
-
-
-
-
-
-
-
 </body>
+<script src="./js/paralax.js"></script>
+
+
 </html>
 
 
