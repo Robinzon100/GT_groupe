@@ -43,14 +43,14 @@
         </tr>
 
         <tr class = "bg-white" >
-        <th scope="row"></th>
+        <th scope="row"></th> 
             <td> <a href="https://www.lenovo.com/us/en/data-center/servers/c/servers"> Lenovo </a> </td>
             <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> Lenovo </a> </td>
             <td> </td>
-            <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> DELL </a> </td>
+            <td> <a href="https://www.dellemc.com/sr-me/storage/data-storage/software-defined-storage.htm#compare0=0"> DELL </a> </td>
             <td> <a href="https://www.hpe.com/emea_europe/en/storage/data-protection-solutions.html"> HPE </a> </td>
             <td>   </td>
-        </tr>
+        </tr> 
         <tr class = "bg-white" >
         <th scope="row"></th>
             <td> <a href="https://www.dellemc.com/sr-ba/servers/index.htm"> Dell/EMC </a> </td>

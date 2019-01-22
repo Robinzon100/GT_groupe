@@ -84,7 +84,7 @@ include("includes/header_nav.php");
                 <td> <a href="https://www.vmware.com/solutions/virtualization.html"> Vmware </a> </td>
                 <td> <a href="https://www.vmware.com/products/software-defined-storage.html"> VSAN </a> </td>
                 <td> <a href="https://www.veritas.com/solution/data-protection"> Veritas </a> </td>
-                <td> <a href="https://software.microfocus.com/en-us/products/siem-security...event.../overview"> HPE </a> </td>
+                <td> <a href="https://www.microfocus.com/en-us/products/siem-security-information-event-management/overview"> HPE </a> </td>
                 <td> <a href="https://www.paessler.com/prtg"> PRTG </a> </td>
             </tr>
             <tr>
@@ -103,7 +103,7 @@ include("includes/header_nav.php");
                 <td> <a href="https://www.lenovo.com/us/en/data-center/servers/c/servers"> Lenovo </a> </td>
                 <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> Lenovo </a> </td>
                 <td> </td>
-                <td> <a href="https://www.lenovo.com/us/en/data-center/storage/c/storage"> DELL </a> </td>
+                <td> <a href="https://www.dellemc.com/sr-me/storage/data-storage/software-defined-storage.htm#compare0=0"> DELL </a> </td>
                 <td> <a href="https://www.hpe.com/emea_europe/en/storage/data-protection-solutions.html"> HPE </a> </td>
                 <td>   </td>
             </tr>

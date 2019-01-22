@@ -78,7 +78,7 @@
 
     <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2" >
         <h3>
-            in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both physical devices as well as software and engineering installation services​
+            &nbsp; In the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both physical devices as well as software and engineering installation services​
         </h3>    
     </div>
     <main class = "main_container m-5 mb-5">

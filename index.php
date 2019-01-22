@@ -23,7 +23,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <script src="src/collapse.js"></script>
+     
     
 
     
@@ -113,6 +113,14 @@
                         </div>
                     </div>
                 </li>
+
+                <li class="nav-item text-center nav-link">
+                    <div class="dropdown text-white">
+                    <div class="px-2 py-4 "  id="dropdownMenuButton" >
+                            <a class="nav-words text-white translate" id="home-geo" style="cursor: pointer;color:black">GEO</a>
+                        </div>
+                    </div>
+                </li>
             </ul>
 
         </div>
@@ -157,7 +165,7 @@
         <div class="card_container">
         <img src="img/icons/SVG/server.svg"  alt="">
         <h5 class="text-center py-1"> <b> Data Center Infrastructure </b></h5>
-        <p class="text-center">Together with the world's leading brands, the GT Group of Professionals is ready to help you with any difficulty in implementing the project. Modern standards and past experience to achieve the best result!</p>
+        <p class="text-center lang" key="card_1_dataCenterInfrastructure">Together with the world's leading brands, the GT Group of Professionals is ready to help you with any difficulty in implementing the project. Modern standards and past experience to achieve the best result!</p>
             </div>
         
     </div>
@@ -433,10 +441,10 @@ The company also provides equipping with small, medium and large capacity printi
 
 
 
-
 <script src="js/jquary.js"></script>
 <script src="js.1/particles.js"></script>
 <script src="js/particles.js"></script>
+<script src="js/language.js"></script>
 
 
 </body>
