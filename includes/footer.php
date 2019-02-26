@@ -32,5 +32,6 @@
     </div>
 
 <script src="js/jquary.js"></script>
+<script src="../js/language.js"></script>
 
  

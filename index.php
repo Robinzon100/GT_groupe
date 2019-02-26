@@ -17,6 +17,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet"> 
+    <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
     <link rel="shortcut icon" href="/img/favicon.ico"/>
 
     <script src="/js.1/jquary_source.js"></script>
@@ -117,11 +118,15 @@
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
                     <div class="px-2 py-4 "  id="dropdownMenuButton" >
-                            <a class="nav-words text-white translate" id="home-geo" style="cursor: pointer;color:black">GEO</a>
+                    <a class="nav-words text-white" href="#">LANG</a>
+                        </div>
+                        <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">  
+                            <a class="nav-words text-white translate" id="home-geo" style="cursor: pointer">GEO <span class="em em-flag-ge"></span> </a>
+                            <a class="nav-words text-white translate" id="home-eng" style="cursor: pointer">ENG <span class="em em-flag-um"></span>  </a>
                         </div>
                     </div>
                 </li>
-            </ul>
+            </ul> 
 
         </div>
     </nav>
@@ -173,7 +178,7 @@
         <div class="card_container">
         <img src="img/icons/SVG/network.svg" style="margin-top: -1rem;"   alt="">
         <h5 class="text-center py-1"> <b> Network Accesories and Installation </b></h5>
-        <p class = "text-center">GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing</p>
+        <p class = "text-center lang" key="card_2_networkAccesoriesAndInstallation">GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing</p>
             </div>
         
     </div>
@@ -181,7 +186,7 @@
         <div class="card_container">
             <img src="img/icons/SVG/camera.svg"   alt="">
             <h5 class="text-center py-1"> <b> CCTV and Security </b></h5>
-            <p class = "text-center">The GT Group offers the design and execution of security systems (CCTV, Fire and Security systems) that are protected by the highest standards from 24/7.</p>
+            <p class = "text-center lang" key="card_3_CCTVandSecurity">The GT Group offers the design and execution of security systems (CCTV, Fire and Security systems) that are protected by the highest standards from 24/7</p>
             </div>
             
         </div>
@@ -190,7 +195,7 @@
             <div class="card_container">
             <img src="img/icons/SVG/pc.svg"  alt="">
             <h5 class="text-center py-1"> <b> Pc and Workstation </b></h5>
-            <p class = "text-center">Personalized systems and workstations are tailored to you based on the requirements of our team. Full portfolios for all types of organizations.</p>
+            <p class = "text-center lang" key="card_4_PcandWorkstation">Personalized systems and workstations are tailored to you based on the requirements of our team. Full portfolios for all types of organizations</p>
                 </div>
             
         </div>
@@ -201,7 +206,7 @@
             <div class="card_container">
                 <img src="img/icons/SVG/printer.svg"  alt="">
                 <h5 class="text-center py-1"> <b> Printing Equipment </b></h5>
-                <p class = "text-center">Full range of small and large format printing machines. All the leading brands of the brand newest divisions and their consumables. Also guarantee and post-service service.</p>
+                <p class = "text-center lang" key="card_5_PrintingEquipment">Full range of small and large format printing machines. All the leading brands of the brand newest divisions and their consumables. Also guarantee and post-service service</p>
                 </div>
                 
             </div>
@@ -209,7 +214,7 @@
             <div class="card_container">
             <img src="img/icons/SVG/live_chat.svg"  alt="">
             <h5 class="text-center py-1"> <b> Video Telepresence and Voice </b></h5>
-                <p class = "text-center">IP telephony, video and voi conferencing solutions to the implementation and / or development of which are essential for uninterrupted connections to your business.</p>
+                <p class = "text-center lang" key="card_6_VideoTelepresenceandVoice">IP telephony, video and voi conferencing solutions to the implementation and / or development of which are essential for uninterrupted connections to your business</p>
                 </div>
             
         </div>
@@ -258,7 +263,7 @@
         <h2 class="intro"> Primary and Feature Solutions</h2>
        
         <!-- /.title-content -->
-        <h5  class="card-info">
+        <h5  class="card-info lang" key="fancy_card_1_data">
         in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both 
         </h5>
     </div>
@@ -271,7 +276,7 @@
         <h2 class="intro"> Primary and Feature Solutions</h2>
        
         <!-- /.title-content -->
-        <h5  class="card-info ">
+        <h5  class="card-info lang" key="fancy_card_2_network">
         GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing
         </h5>
     </div>
@@ -284,7 +289,7 @@
         <h2 class="intro">The Best Security Companies Have to Offer </h2>
        
         <!-- /.title-content -->
-        <h5  class="card-info">
+        <h5  class="card-info lang" key="fancy_card_3_CCTV">
         GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...
         </h5>
     </div>
@@ -298,7 +303,7 @@
         <h2 class="intro"> Best Products </h2>
        
         <!-- /.title-content -->
-        <h5 class="card-info">
+        <h5 class="card-info lang" key="fancy_card_4_personal">
         GT Group offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements
 The company also provides equipping with small, medium and large capacity printing equipment as well as wide-format printing equipment for the organizations. GT Group is implementing the so called "Outsourcing" service for printing devices which means "payments in accordance with the printed page" ​
         </h5>
@@ -325,10 +330,9 @@ The company also provides equipping with small, medium and large capacity printi
                 <h2 class="intro"> Primary and Feature Solutions</h2>
 
                 <!-- /.title-content -->
-                <h5 class="card-info">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-                    et magni vel.
-                </h5>
+                <h5  class="card-info lang" key="fancy_card_1_data">
+        in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both 
+        </h5>
             </div>
             
         </div>
@@ -343,10 +347,9 @@ The company also provides equipping with small, medium and large capacity printi
                     <h2 class="intro"> Primary and Feature Solutions</h2>
                 
                     <!-- /.title-content -->
-                    <h5  class="card-info ">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-                    et magni vel.
-                    </h5>
+                    <h5  class="card-info lang" key="fancy_card_2_network">
+        GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing
+        </h5>
                 </div>
                 
             </div>
@@ -361,9 +364,9 @@ The company also provides equipping with small, medium and large capacity printi
                 <h2 class="intro">The Best Security Companies Have to Offer </h2>
             
                 <!-- /.title-content -->
-                <h5  class="card-info">
-                GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...
-                </h5>
+                <h5  class="card-info lang" key="fancy_card_3_CCTV">
+        GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...
+        </h5>
             </div>
                 
             </div>
@@ -378,10 +381,10 @@ The company also provides equipping with small, medium and large capacity printi
                 <h2 class="intro"> aliquip ex ea commodo.</h2>
 
                 <!-- /.title-content -->
-                <h5 class="card-info">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, magnam? Consequuntur tempore eos libero officia eius laudantium
-                    et magni vel.
-                </h5>
+                <h5 class="card-info lang" key="fancy_card_4_personal">
+        GT Group offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements
+The company also provides equipping with small, medium and large capacity printing equipment as well as wide-format printing equipment for the organizations. GT Group is implementing the so called "Outsourcing" service for printing devices which means "payments in accordance with the printed page" ​
+        </h5>
             </div>
                 
             </div>

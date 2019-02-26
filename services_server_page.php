@@ -65,7 +65,7 @@
             </div>
 
 
-            <h1 class = "server_title_title ">Servers and Storage Infrastructure</h1>
+            <h1 class = "server_title_title lang" key="title">Servers and Storage Infrastructure</h1>
     </div>
 
 
@@ -77,7 +77,7 @@
 
 
     <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2" >
-        <h3>
+        <h3 class="lang" key="main_text">
             &nbsp; In the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both physical devices as well as software and engineering installation services​
         </h3>    
     </div>
@@ -197,7 +197,7 @@
     <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table lang" key="title" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>
@@ -271,7 +271,12 @@
 <script src="js/paralax.js"></script>
 </div>
 
+<script>
 
+    let lang_eng = document.querySelector('#about-eng').id="services_server_eng";
+    let lang_geo = document.querySelector('#about-geo').id="services_server_geo";
+
+</script>
 
 
 

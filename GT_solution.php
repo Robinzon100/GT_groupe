@@ -57,13 +57,13 @@ include("includes/header_nav.php");
 </div>
 
 <main class = "main_container">
-    <h1 style="margin-top:6rem !important;" class="display-3 font-weight-bold text-center m-5 serv-title">Data Infrastructure</h1>
+    <h1 style="margin-top:6rem !important;" class="display-3 font-weight-bold text-center m-5 serv-title lang" key="data_inf">Data Infrastructure</h1>
 
 <div style="overflow-x:auto;" >
     <table class="table table-hover">
         <thead>
             <tr>
-                <th scope="col" colspan="8" class = "text-center display-4 table-titles server__title" >Feature Solutions</th>
+                <th scope="col" colspan="8" class = "text-center display-4 table-titles server__title lang" key="feature_solu" >Feature Solutions</th>
             </tr>
             <tr class = "bg-dark text-white">
                 <th scope="col"></th>
@@ -124,7 +124,7 @@ include("includes/header_nav.php");
 <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 table-titles" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles lang" key="data_inf" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"> </th>
@@ -166,14 +166,14 @@ include("includes/header_nav.php");
     <!-- === === === NETWORK SOLUTION === === === -->
 
 
-    <h1 class="display-3 font-weight-bold text-center net-title">Network / Security</h1>
+    <h1 class="display-3 font-weight-bold text-center net-title lang" key="network_security">Network / Security</h1>
 
 
 
 <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table lang" key="primary_solu" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>
@@ -210,7 +210,7 @@ include("includes/header_nav.php");
     <table class="table table-hover" style ="margin-bottom:20rem;">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table " >Feature Solutions</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles network-table lang" key="feature_solu" >Feature Solutions</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"></th>
@@ -244,6 +244,13 @@ include("includes/header_nav.php");
 include("includes/footer.php");
 
 ?>
+
+<script>
+
+    let lang_eng = document.querySelector('#about-eng').id="gtsolution_eng";
+    let lang_geo = document.querySelector('#about-geo').id="gtsolution_geo";
+
+</script>
 
 </body>
 </html>

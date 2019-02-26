@@ -3,9 +3,11 @@
 <link rel="stylesheet" href="../fonts/fonts.css">
 <link rel="stylesheet" href="../grids/main_grid.css">
 <link rel="shortcut icon" type="image/svg" href="../img/icons/logo2.svg">
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
     <script src="../js.1/jquary_source.js"></script>
     <script src="../js/jquary.js"></script>
+    
 
 <title>GT Groupe</title>
 
@@ -80,8 +82,12 @@
 
                 <li class="nav-item text-center nav-link">
                     <div class="dropdown text-white">
-                    <div class="px-2 py-4"  id="dropdownMenuButton" >
-                            <a class = " nav-words text-white"  href="../contacts.php">CONTACTS</a>
+                    <div class="px-2 py-4 "  id="dropdownMenuButton" >
+                    <a class="nav-words text-white" href="#">LANG</a>
+                        </div>
+                        <div class="dropdown-menu" style = "top:92% !important;" aria-labelledby="dropdownMenuButton">  
+                            <a class="nav-words text-white translate" id="about-geo" style="cursor: pointer">GEO <span class="em em-flag-ge"></span> </a>
+                            <a class="nav-words text-white translate" id="about-eng" style="cursor: pointer">ENG <span class="em em-flag-um"></span>  </a>
                         </div>
                     </div>
                 </li>

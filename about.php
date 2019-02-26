@@ -38,82 +38,61 @@
 <?php
     include("includes/header_nav.php");
 ?>
-
 <div class="about_image text-center" style="margin-top:10rem">
     <img  src="/img/icons/logo2.svg" alt="" width="20%">
 </div>
-
 <div class="main_text server_text fixed-bottom" >
-    <h3>
-    <b> GT Group  </b>is the system integrator in the information and communication sphere founded on the basis of 15 year experience. ​
-
-Since the moment of its foundation to these days the company managed to become a partner and provider in Georgia of more than 20 world huge IT companies. ​
-
-The employees, engineers and other technical staff members of <b> GT Group  </b>systematically have trainings and educational courses with all partner brands, which is aimed at raising qualification, learning the contemporary technologies and introduction them in the Georgian reality, all these provides the high level of professionalism and  the readiness to overcome difficult challenges. ​
-
-The company proposes perfect solutions both, for huge and medium business and governmental bodies. Its goal is the establishment of long term business relationships which is oriented toward the bilateral profit and success. ​
-
-​    </h3>    
-
-<br>
-    <h3>
-    The <b> GT Group‘s</b> as the system integrator's mission is to help clients reach the set goals by  means of providing information and communication solutions built on modern technologies, products and services.​
+    <h3 class="lang" key="main_text">
+        <b> GT Group  </b>is the system integrator in the information and communication sphere founded on the basis of 15 year experience. ​
+        Since the moment of its foundation to these days the company managed to become a partner and provider in Georgia of more than 20 world huge IT companies. ​
+        The employees, engineers and other technical staff members of <b> GT Group  </b>systematically have trainings and educational courses with all partner brands, which is aimed at raising qualification, learning the contemporary technologies and introduction them in the Georgian reality, all these provides the high level of professionalism and  the readiness to overcome difficult challenges. ​
+        The company proposes perfect solutions both, for huge and medium business and governmental bodies. Its goal is the establishment of long term business relationships which is oriented toward the bilateral profit and success. ​
+    ​    <br>
+        <br>
+        The <b> GT Group‘s</b> as the system integrator's mission is to help clients reach the set goals by  means of providing information and communication solutions built on modern technologies, products and services.​
+        <br>
+        <br>
+        There are about 100 companies in the <b> GT Group's</b> customers list who are considered as one of the leading and successful businesses in various fields
     </h3>
-<br>
-
-    <h3>
-    There are about 100 companies in the <b> GT Group's</b> customers list who are considered as one of the leading and successful businesses in various fields
-    </h3>
-
-
-
 <div class=" partners__grid text-center">
     <ul class=" partners text-center  ">
         <li> 
             <div class="card" height="21rem;">
                 <img class = "card-img-top mt-3 pb-4 p-5" src="img/about-icon-1.JPG"  alt=""> 
                 <ul class="text-left mb-5">
-                    <li>Micro financial organizations</li>
-                    <li>Transport companies</li>
-                    <li>Foreign organizations</li>
+                    <li class="lang" key="card_1_1">Micro financial organizations</li>
+                    <li class="lang" key="card_1_2">Transport companies</li>
+                    <li class="lang" key="card_1_3">Foreign organizations</li>
                 </ul>
             </div>
         </li>
-
         <li> 
             <div class="card">
                 <img class = "card-img-top mb-5 pb-4 p-5 " src="img/about-icon-2.JPG"alt=""  > 
                 <ul class="text-left">
-                    <li>Banking sector</li>
-                    <li>Gambling business</li>
-                    <li>International organizations</li>
-                    <li>Pharmaceutical organizations</li>
-                    <li>Hotel</li>
-                    <li>Developer companies</li>
+                    <li class="lang" key="card_2_1">Banking sector</li>
+                    <li class="lang" key="card_2_2">Gambling business</li>
+                    <li class="lang" key="card_2_3">International organizations</li>
+                    <li class="lang" key="card_2_4">Pharmaceutical organizations</li>
+                    <li class="lang" key="card_2_5">Hotel</li>
+                    <li class="lang" key="card_2_6">Developer companies</li>
                 </ul>
             </div>
         </li>
-
         <li> 
             <div class="card">
                 <img class = "card-img-top mt-3 pb-4 p-5 " src="img/about-icon-3.JPG"alt=""> 
                 <ul class="text-left mb-4 mt-3">
-                    <li>Governmental administratiove bodies</li>
-                    <li>Ministries</li>
-                    <li>Legal Entries of Public Law (LEPL)</li>
-                    <li>Othr state organizations</li>
+                    <li class="lang" key="card_3_1">Governmental administratiove bodies</li>
+                    <li class="lang" key="card_3_2">Ministries</li>
+                    <li class="lang" key="card_3_3">Legal Entries of Public Law (LEPL)</li>
+                    <li class="lang" key="card_3_4">Othr state organizations</li>
                 </ul>
             </div>
         </li>
     </ul>
 </div>
-
 </div>
-
-
-
-
-
 <?php
     include("includes/footer.php");
 ?>

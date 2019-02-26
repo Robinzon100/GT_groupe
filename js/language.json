@@ -1,9 +1,149 @@
 {
-    "home-geo" :{
-        "card_1_dataCenterInfrastructure":  "მსოფლიოს წამყვან ბრენდებთან ერთად პროფესიონალთა გუნდი მზად არის პროექტის განხორციელებაში რაიმე სირთულესთან დაკავშირებით. თანამედროვე სტანდარტებისა და წარსულის გამოცდილების მიღწევა საუკეთესო შედეგის მისაღწევად!"
+    "home-geo": {
+        "card_1_dataCenterInfrastructure": "მსოფლიოს წამყვან ბრენდებთან ერთად პროფესიონალთა გუნდი მზად არის პროექტის განხორციელებაში რაიმე სირთულესთან დაკავშირებით. თანამედროვე სტანდარტებისა და წარსულის გამოცდილების მიღწევა საუკეთესო შედეგის მისაღწევად!",
+
+        "card_2_networkAccesoriesAndInstallation": "GT Group გთავაზობთ პრემიუმ და სამომავლო გადაწყვეტილებებს თქვენი მშვიდი ყოფნისთვის. ჩვენი გუნდი მზადაა ითანამშრომლოს თქვენთან ერთად, მათ შორის სრული მომსახურება დაგეგმვისა და განხორციელებისგან",
+
+        "card_3_CCTVandSecurity": "GT Group გთავაზობთ უსაფრთხოების სისტემების (CCTV, ხანძარსა და უსაფრთხოების სისტემებს) დიზაინსა და აღსრულებას, რომლებიც დაცულია უმაღლესი სტანდარტების მიხედვით 24/7",
+
+        "card_4_PcandWorkstation": "პერსონალური სისტემები და სამუშაო სადგურები მორგებული არიან ჩვენი გუნდის მოთხოვნების საფუძველზე. სრული პორტფელები ყველა ტიპის ორგანიზაციისთვის.",
+
+        "card_5_PrintingEquipment": "მცირე და დიდი ფორმატის ბეჭდვის აპარატების სრული სპექტრი. ბრენდის უახლესი დაყოფის ყველა წამყვანი ბრენდი. ასევე გარანტია და პოსტსაინფორმაციო მომსახურება",
+
+        "card_6_VideoTelepresenceandVoice": "IP ტელეფონია, ვიდეო და voice კონფერენციების გადაწყვეტილებები განხორციელების, რომლის განვითარება აუცილებელია თქვენი ბიზნესის უწყვეტი კავშირები",
+
+
+
+
+
+
+        "fancy_card_1_data": "მონაცემთა ინფრასტრუქტურის და ქსელის / უსაფრთხოების GT Group- ის მიმართულებით კლიენტებს სთავაზობს სრულ მომსახურებას, მათ შორის დაგეგმვას, გადაწყვეტილებებს, მიწოდებას, ინსტალაციას / აღდგენას და მხარდაჭერას.",
+
+        "fancy_card_2_network": "GT Group გთავაზობთ პრემიუმ და სამომავლო გადაწყვეტილებებს თქვენი მშვიდი ყოფნისთვის. ჩვენი გუნდი მზადაა ითანამშრომლოს თქვენთან ერთად, მათ შორის სრული მომსახურება დაგეგმვისა და განხორციელებისგან",
+
+        "fancy_card_3_CCTV": "GT Group- ი ასევე უზრუნველყოფს უსაფრთხოების სისტემებს, CCTV და ხანძარსაწინააღმდეგო სისტემებს, ჩვენი კომპანია უსაფრთხოების სფეროში ბევრ მიმართულებით მუშაობს. ისინი არიან: ხანძარსაწინააღმდეგო უსაფრთხოების აღჭურვილობა და სისტემები, ავტომატური ხანძარსაწინააღმდეგო სისტემები, ვიდეოთვალთვალის მოწყობილობები და სისტემები, უსაფრთხოების სისტემები და ა.შ.",
+
+        "fancy_card_4_personal": "კომპანია GT Group- ი პერსონალურ სისტემებსა და სამუშაო სადგურებს კორპორატიული მომხმარებლებისთვის სთავაზობს ორგანიზაციული პერსონალის იერარქია, კონკრეტული საჭიროებების და მოთხოვნების შესაბამისად კომპანია ასევე უზრუნველყოფს მცირე, საშუალო და მსხვილი სიმძლავრის ბეჭდვით აღჭურვილობასა და ორგანიზაციებისთვის ფართო ფორმატის საბეჭდი მოწყობილობებს. GT ჯგუფი ახორციელებს ე.წ. \"აუთსორსინგის\" სერვისს ბეჭდვის მოწყობილობებისთვის, რაც ნიშნავს \"ბეჭდური გვერდის მიხედვით გადახდას\""
     },
 
-    "home-eng" :{
-        "card_1_dataCenterInfrastructure":  "Together with the world's leading brands, the GT Group of Professionals is ready to help you with any difficulty in implementing the project. Modern standards and past experience to achieve the best result!"
+    "home-eng": {
+        "card_1_dataCenterInfrastructure": "Together with the world's leading brands, the GT Group of Professionals is ready to help you with any difficulty in implementing the project. Modern standards and past experience to achieve the best result!",
+
+        "card_2_networkAccesoriesAndInstallation": "GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing",
+
+        "card_3_CCTVandSecurity": "The GT Group offers the design and execution of security systems (CCTV, Fire and Security systems) that are protected by the highest standards from 24/7",
+
+        "card_4_PcandWorkstation": "Personalized systems and workstations are tailored to you based on the requirements of our team. Full portfolios for all types of organizations.",
+
+        "card_5_PrintingEquipment": "Full range of small and large format printing machines. All the leading brands of the brand newest divisions and their consumables. Also guarantee and post-service service",
+
+        "card_6_VideoTelepresenceandVoice": "IP telephony, video and voi conferencing solutions to the implementation and / or development of which are essential for uninterrupted connections to your business",
+
+
+
+
+
+
+        "fancy_card_1_data": "in the direction of Data Infrastructure and Network/Security GT Group offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both ",
+
+        "fancy_card_2_network": "GT Group offers premium and future solutions for your quiet stay. Our team is ready to cooperate with you, including full service from planning and implementing",
+
+        "fancy_card_3_CCTV": "GT Group also offers a complete solution for security systems, CCTV and fire fighting systems.​ Our company works in many directions in the field of security. They are as follows: fire fighting safety equipment and systems, automatic fire extinguishing systems, video surveillance equipment and systems, security systems, etc.​...",
+
+        "fancy_card_4_personal": "GT Group offers personal systems and workstations for corporative users according to the hierarchy of organization personnel, in accordance with specific needs and requirements The company also provides equipping with small, medium and large capacity printing equipment as well as wide-format printing equipment for the organizations. GT Group is implementing the so called \"Outsourcing\" service for printing devices which means \"payments in accordance with the printed page\" ​"
+    },
+
+
+
+
+
+
+    "about-geo": {
+        "main_text": "<b>ჯი-თი ჯგუფი</b> არის 15 წლიანი გამოცდილების ბაზაზე დაარსებული სისტემური ინტეგრატორი  საინფორმაციო და საკომუნიკაციო ტექნოლოგიების სფეროში. ​კომპანიამ დაარსებიდან დღემდე მოახერხა გამხდარიყო 20-ზე მეტი მსოფლიოს უმსხვილესი IT კომპანიის პარტნიორი და მომწოდებელი საქართველოში.​ <b>ჯი-თი ჯგუფის</b> თანამშრომლები , ინჟინრები და სხვა ტექნიკური პერსონალის წევრები სისტემატურად გადიან ტრეინინგებს და სასწავლო კურსებს ყველა პარტნიორ ბრენდთთან, რაც მიზნად ისახავს კვალიფიკაციის ამაღლებას,თანამედროვე ტექნოლოგიების შესწავლას და  საქართველოს რეალობაში მათ დანერგვას, ყოველივე ეს უზრუნველყოფს პროფესიონალიზმის მაღალ დონეს და რთული გამოწვევების დაძლევისთვის მზადყოფნას.​ კომპანია სრულყოფილ გადაწყვეტილებებს სთავაზობს როგორც მსხვილ და საშუალო ბიზნეს, ისე სამთავრობო ორგანოებს. მისი მიზანია გრძელვადიანი ბიზნეს ურთიერთობების დამყარება, რაც ორიენტირებულია ორმხრივი სარგებლისა და წარმატების მომტანაზე.​​ <br> <br> <b>ჯი-თი ჯგუფის</b> როგორც სისტემური ინტეგრატორის მისიაა, თანამედროვე ტექნოლოგიებზე, პროდუქტებსა და სერვისებზე აგებული ინფორმაციული და საკომუნიკაციო გადაწყვეტილებების მიწოდების გზით დაეხმაროს კლიენტებს დასახული მიზნების მიღწევაში.​ <br><br> <b>ჯი-თი ჯგუფის</b> კლიენტების სიაში 100-მდე კომპანიაა, რომლებიც სხვადასხვა სფეროში ითვლებიან ერთერთ მოწინავე და წარმატებულ ბიზნესებად.​",
+
+    
+        "card_1_1": "მიკრო საფინანსო ორგანიზაციები",
+        "card_1_2": "სატრანსპორტო კომპანიები",
+        "card_1_3": "უცხოური ორგანიზაციები",
+
+        "card_2_1": "საბანკო სექტორი",
+        "card_2_2": "სათამაშო ბიზნესი",
+        "card_2_3": "საერთაშორისო ორგანიზაციები",
+        "card_2_4": "ფარმაცევტული ორგანიზაციები",
+        "card_2_5": "სასტუმრო",
+        "card_2_6": "დეველოპერული კომპანიები",
+
+        "card_3_1": "სამთავრობო ადმინისტრაციული ორგანოები",
+        "card_3_2": "სამინისტროები",
+        "card_3_3": "საჯარო სამართლის იურიდიული პირები (სსიპ)",
+        "card_3_4": "სხცა სახელმწიფო ორგანიზაციები"
+
+        
+    },
+
+
+    "about-eng": {
+        "main_text": "GT Group is the system integrator in the information and communication sphere founded on the basis of 15 year experience. ​ Since the moment of its foundation to these days the company managed to become a partner and provider in Georgia of more than 20 world huge IT companies. ​ The employees, engineers and other technical staff members of GT Group systematically have trainings and educational courses with all partner brands, which is aimed at raising qualification, learning the contemporary technologies and introduction them in the Georgian reality, all these provides the high level of professionalism and the readiness to overcome difficult challenges. ​ The company proposes perfect solutions both, for huge and medium business and governmental bodies. Its goal is the establishment of long term business relationships which is oriented toward the bilateral profit and success. ​ The GT Group‘s as the system integrator's mission is to help clients reach the set goals by means of providing information and communication solutions built on modern technologies, products and services.​There are about 100 companies in the GT Group's customers list who are considered as one of the leading and successful businesses in various fields",
+
+    
+        "card_1_1": "Micro financial organizations",
+        "card_1_2": "Transport companies",
+        "card_1_third": "Foreign organizations",
+
+        "card_2_1": "Banking sector",
+        "card_2_2": "Gambling business",
+        "card_2_3": "International organizations",
+        "card_2_4": "Pharmaceutical organizations",
+        "card_2_5": "Hotel",
+        "card_2_6": "Developer companies",
+
+        "card_3_1": "Governmental administratiove bodies",
+        "card_3_2": "Ministries",
+        "card_3_3": "Legal Entries of Public Law (LEPL)",
+        "card_3_4": "Othr state organizations"
+
+        
+
+    },
+
+
+
+
+
+
+    
+    "gtsolution_geo":{
+        "primary_solu":"ძირითადი გადაწყვეტილება",
+        "feature_solu":"ფუნქციონალური გადაწყვეტილება",
+
+        "network_security":"ქსელი / უსაფრთხოება",
+        "data_inf":"მონაცემთა ინფრასტრუქტურა"
+    },
+
+
+    "gtsolution_eng":{
+        "primary_solu":"Primary Solution",
+        "feature_solu":"Feature Solution",
+
+        "network_security":"Network / Security",
+        "data_inf":"Data Infrastructure"
+    },
+
+
+
+
+
+
+    "services_server_geo":{
+        "title":"სერვერები და მონაცემთა შენახვის სისტემები​",
+        "main_text":"სერვერები და მონაცემთა შენახვის სისტემების მიმართულებით <b>ჯი-თი ჯგუფი</b> კლიენტებს სთავაზობს სრულ სერვისს, რაც მოიცავს დაგეგმარებას, გადაწყვეტილებებს, მიწოდებას, ექსპლუატაციაში გაშვებას და მხარდაჭერას.<br>კომპანია გთავაზობთ როგორც ფიზუკურ მოწყობილობებს ასევე პროგრამულ უზრუნველყოფებს და საინჟინრო საინსტალციო მომსახურებას ​"
+        
+    },
+
+
+    "services_server_eng":{
+        "title":"Servers and Storage Infrastructure",
+        "main_text":" In the direction of Data Infrastructure and Network/Security <b>GT Group</b> offers clients a full service, including planning, solutions, delivery, installation/Reinstallation and support.​ The company offers both physical devices as well as software and engineering installation services​ "    
+        
     }
 }
