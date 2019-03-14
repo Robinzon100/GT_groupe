@@ -60,7 +60,7 @@
             </div>
 
 
-            <h1 class = "server_title_title">Consultations, recommendations, audits and assessment </h1>
+            <h1 class = "server_title_title lang" key="title">Consultations, recommendations, audits and assessment </h1>
     </div>
 
 
@@ -72,14 +72,14 @@
 
 
     <div class="main_text server_text fixed-bottom scroll" data-rate="-0.2">
-        <h3  style="margin-bottom:4rem;">
+        <h3  style="margin-bottom:4rem;" class="lang" key="main_text">
         GT Group offers consulting and auditing services that will help you in correct planning  of IT infrastructure and its dynamic development so that IT infrastructure would not be an obstacle for timely realization of business goals and objectives.​
 
 Our team is ready to help you evaluate and analyze the state of your present IT infrastructure and select the schemes and technologies for its modernization.​        </h3>    
     
 <table class="table-hover mt-5" style="border:1px solid #080e20">
         <tr class="row">
-            <h2 class="text-white p-3" style = "background-color:#080e20"  >Consultations and recommendations</h2>
+            <h2 class="text-white p-3 lang" style = "background-color:#080e20"   >Consultations and recommendations</h2>
         </tr>
 
         <tr class="row">
@@ -134,6 +134,13 @@ Our team is ready to help you evaluate and analyze the state of your present IT 
 
 </body>
 <script src="./js/paralax.js"></script>
+
+<script>
+
+    let lang_eng = document.querySelector('#about-eng').id="consultation_server_eng";
+    let lang_geo = document.querySelector('#about-geo').id="consultation_server_geo";
+
+</script>
 
 
 </html>

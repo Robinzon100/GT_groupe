@@ -124,7 +124,7 @@ include("includes/header_nav.php");
 <table class="table table-hover my-5">
     <thead>
         <tr>
-            <th scope="col" colspan="4" class = "text-center display-4 table-titles lang" key="data_inf" >Primary Solution</th>
+            <th scope="col" colspan="4" class = "text-center display-4 table-titles lang" key="primary_solu" >Primary Solution</th>
         </tr>
         <tr class = "bg-dark text-white">
             <th scope="col"> </th>
